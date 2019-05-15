@@ -1,4 +1,5 @@
 ---
+description: "First side-project"
 ---
 
 Why this project?
