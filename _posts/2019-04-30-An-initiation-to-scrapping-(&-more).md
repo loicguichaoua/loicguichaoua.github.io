@@ -2,6 +2,8 @@
 description: "First side-project"
 ---
 
+## Why learn scraping?
+
 I love electro & house music, and have always wanted to have all the upcoming music festivals (worldwide) effortlessly show up in my Google Calendar, so that I could simply pick my next travel destination according to where the best events would be taking place.
 
 The thing is, since Google's Public Calendars were depleted[1], I haven't been able to find a practical solution that would allow me to easily (automatically) add (hundreds to thousands of) events to my calendar.
@@ -11,7 +13,7 @@ Say, if I wanted to add all the upcoming electro festivals worldwide (hundreds) 
 I had heard about scraping in the past, which allows to quickly extract data from websites, and I knew I could somehow use Google Calendar's API to add events to my calendar using code. That's all I needed to get started.
 
 
-How To: 
+## How I went about it:
 
 Step #1: finding reliable, well maintained Events listings
 Tools: Google search, friends' recommendations.
@@ -27,7 +29,7 @@ Tools: Python, Pandas, Google Calendar API.
 How: I wrote another Python script, this time to extract the data from the csv file and upload it to my Google Calendar using its API (I find the tutorial videos very handy). I also added code to update existing events every time I run the program. Pandas, a Python data analysis library, was extremely convenient to structure and play with the data.
 
 
-Bottom line: 
+## Bottom line: 
 
 In just about 2 days, I was able to write code which allows me to fill and easily update a Calendar containing hundreds of upcoming electro and deep house festivals worldwide over the next 24 months, which I can easily share with friends.
 
