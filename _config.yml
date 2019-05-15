@@ -24,36 +24,31 @@ navigation:
     url: /
   - name: About
     url: /about
-  - name: Archive
-    url: /archive
-  - name: Tags
-    url: /tags
-  - name: Theme
-    url: https://github.com/AWEEKJ/kiko-now
+  # - name: Tags
+  #   url: /tags
 
 # Pagination
-paginate: 5
+paginate: 10
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  behance: # https://www.behance.net/<username>
+  behance:
   dribbble:
   email:
   facebook:
   flickr:
-  github: AWEEKJ/kiko-now
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  github:
   instagram:
-  linkedin:
+  linkedin: loicguichaoua
   pinterest:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  twitter: jekyllrb
+  twitter: LoicGuichaoua
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: © 2017 Kiko Now
+footer-text: © 2019 LG
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
