@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a 28 y-o tech-savvy financial analyst, music enthusiast and fascinated by China.
+I created this blog to write about my side-projects. My goal is one article per month in 2019, starting in April!
 
-### More Information
+<!-- ### More Information -->
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+<!-- ### Contact me -->
+
+<!-- [email@domain.com](mailto:email@domain.com) -->

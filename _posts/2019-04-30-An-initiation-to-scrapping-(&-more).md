@@ -2,9 +2,7 @@
 description: "First side-project"
 ---
 
-Why this project?
-
-I love electro and house music and have always wanted to have all the upcoming music festivals (worldwide) effortlessly show up in my Google Calendar, so that I could simply pick my next travel destination according to where the best events would be taking place.
+I love electro & house music, and have always wanted to have all the upcoming music festivals (worldwide) effortlessly show up in my Google Calendar, so that I could simply pick my next travel destination according to where the best events would be taking place.
 
 The thing is, since Google's Public Calendars were depleted[1], I haven't been able to find a practical solution that would allow me to easily (automatically) add (hundreds to thousands of) events to my calendar.
 
