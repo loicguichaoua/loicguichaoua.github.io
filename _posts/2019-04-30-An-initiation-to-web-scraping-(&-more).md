@@ -1,5 +1,6 @@
 ---
 description: "First side-project"
+comments: true
 ---
 
 ## Why learn scraping?
@@ -15,17 +16,17 @@ I had heard about scraping in the past, which allows to quickly extract data fro
 
 ## How I went about it:
 
-**Step #1:** finding reliable, well maintained Events listings
-Tools: Google search, friends' recommendations.
+**Step #1:** finding reliable, well maintained Events listings  
+Tools: Google search, friends' recommendations.  
 How: I made a shortlist of websites which were fairly important, regularly maintained, with the most events listed and with the most detailed information per event. I ended up choosing one single website.
 
-**Step #2:** (_respectfully_) scraping the Events listing
-Tools: Python, Scrapy, Virtual Environments.
+**Step #2:** (_respectfully_) scraping the Events listing  
+Tools: Python, Scrapy, Virtual Environments.  
 How: I wrote a Python script using Scrapy, a Python framework which made it easy to extract data about 1500+ events from the website, while storing it all neatly in a csv file, all in just a few seconds. 
 Note that by respectfully, I mean that some websites do not wish to be scraped, Scrapy automatically pays attention to this by checking the websites' "robot.txt" file.
 
-**Step #3:** Adding events from a CSV file to my Google Calendar
-Tools: Python, Pandas, Google Calendar API.
+**Step #3:** Adding events from a CSV file to my Google Calendar  
+Tools: Python, Pandas, Google Calendar API.  
 How: I wrote another Python script, this time to extract the data from the csv file and upload it to my Google Calendar using its API (I find the tutorial videos very handy). I also added code to update existing events every time I run the program. Pandas, a Python data analysis library, was extremely convenient to structure and play with the data.
 
 
