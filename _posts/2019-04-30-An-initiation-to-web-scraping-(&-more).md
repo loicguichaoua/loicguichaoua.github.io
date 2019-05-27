@@ -3,7 +3,13 @@ description: "Let's talk about Electro music. And web scraping. Electro scraping
 comments: true
 ---
 
-![Expo Electro at the Philarmonie in Paris, summer 2019]({{ site.baseurl }}/images/ElectroPhilarmoniedeParis2019-1.jpg | height=100 "Expo Electro Paris, Summer 2019")
+![Expo Electro at the Philarmonie in Paris, summer 2019]({{ site.baseurl }}/images/ElectroPhilarmoniedeParis2019-1.jpg "Expo Electro Paris, Summer 2019")
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="{{ site.baseurl }}/images/festoches.m4v" type="video/mp4">
+  </video>
+</figure>
 
 ## Why learn scraping?
 
