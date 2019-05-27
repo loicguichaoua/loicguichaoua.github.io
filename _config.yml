@@ -21,7 +21,7 @@ avatar: https://www.loicguichaoua.com/images/loic1.png
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
   - name: Articles
-    url: 
+    url: /
   - name: About
     url: /about
   # - name: Tags
