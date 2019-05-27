@@ -17,6 +17,6 @@ fi
 
 # (3) if not, commit & push
 git add .
-git commit -m $answer
+git commit -m "$answer"
 git push blog master
 git status
