@@ -5,16 +5,18 @@
 # Pushes updates to github repository
 ########################################
 
-git add .
+
 # (1) prompt user, and read command line argument
 read -p "Commit message: " answer
 # (2) check input, if empty exit
-if [ $answer ~= "" ]
+if [[ $answer == "" ]]
 then
 	echo "Please enter commit message.\n"
 	break
 fi
+
 # (3) if not, commit & push
+git add .
 git commit -m $answer
 git push blog master
 git status
