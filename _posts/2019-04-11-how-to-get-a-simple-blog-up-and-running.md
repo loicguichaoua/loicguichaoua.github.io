@@ -1,5 +1,5 @@
 ---
-description: "How I set up this blog"
+description: "To whom it may help, a brief explanation of how I set up this blog."
 comments: true
 ---
 
