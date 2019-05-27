@@ -21,3 +21,7 @@ Nomad and office lifestyles, thoughts on management, personal development applie
 My current work is related to China
 
 ...
+
+“You must choose an area where you can win. No, scratch that. Not just win, but absolutely dominate. After all, don’t we have enough mediocre podcasts around?” Gary Vee
+
+"If you hear a voice within you say 'you cannot paint,'' then by all means paint and that voice will be silenced." Vincent Van Gogh
