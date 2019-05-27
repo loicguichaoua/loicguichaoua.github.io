@@ -1,5 +1,6 @@
 ---
 description: "How I set up this blog"
+comments: true
 ---
 
 ## Why a blog?
@@ -25,18 +26,21 @@ In the case of this blog, several topics should show up in the blog feed, such a
 ## How To: 
 
 **Step #1**: Purchase a domain
-Tools: Google Domains (12€ per year)
+Tools: `[Google Domains](https://domains.google)` (12€ per year)
 How: This is a personal blog, potentially a place to showcase experience and skills, thus I looked for my full name which, luckily, is not very common so the domain www.loicguichaoua.com was available. I bought it via Google Domains since it offered turnkey solutions to start a blog if you book the domain through their service. Note that there exists many solutions to buy a domain name, simply type "buy domain name" in your browser.
 
 **Step #2**: Choose how you wish to build your blog
-Tools: [Jekyll](https://jekyllrb.com/) (free)
+Tools: `[Jekyll](https://jekyllrb.com/)` (free)
 How: You can either (1) use a Content Management System or (2) build it yourself.
 (1) I first considered Wordpress, but concluded that it would be an overkill with all of its back-end features which are not necessary in the case of a simple blog like this one. I then tried Blogger (by Google) but the templates just look... hideous. I then turned to digital nomad friends who mentioned [Ghost](https://ghost.org/) and [Jekyll](https://jekyllrb.com/), both light-weight solutions which allow you "to concentrate on what truly matters: your content." Great.
 (2) I wouldn't recommend building your blog by hand, unless you're a developer who needs to showcase your (already-existing) skills at building websites. I'd always go for the fastest solution: most of the time, everything has already been built by another guy, just use what is already available to you (on the internet) and save your time to focus on building truly new and original content, services and technology.
 
 **Step #3**: Find a server to host your blog files
-Tools: Github pages (free)
+Tools: `[Github pages](https://pages.github.com)` (free)
 How: Most websites that sell domain names also offer hosting services. In my case, Jekyll offered free hosting on Github Pages, so I went for it. Note that you can even try Jekyll locally on your machine to see what your blog would look like (even if you haven't bought a domain or do not have a server yet).
+
+
+## Bottom line:
 
 This solution ends up being quite cheap:
 Domain name (Google Domains): 12€ per year
