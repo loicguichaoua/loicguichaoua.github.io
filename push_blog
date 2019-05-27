@@ -7,9 +7,9 @@
 
 git add .
 # (1) prompt user, and read command line argument
-read -p "Commit message:" answer
+read -p "Commit message: " answer
 # (2) check input, if empty exit
-if [ $choose ~= "" ] 
+if [ $answer ~= "" ]
 then
 	echo "Please enter commit message.\n"
 	break
