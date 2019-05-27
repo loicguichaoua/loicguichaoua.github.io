@@ -329,6 +329,7 @@ img {
   width: 70px;
   height: 70px;
   margin-right: 15px;
+  border-radius: 80px;
 
   @include mobile {
     float: none;
