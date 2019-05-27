@@ -1,5 +1,5 @@
 ---
-description: "Let's talk about Electro music. And web scraping. Electro scraping."
+description: "Let's talk about Electro music. And Web Scraping."
 comments: true
 ---
 
