@@ -3,7 +3,7 @@ description: "Let's talk about Electro music. And web scraping. Electro scraping
 comments: true
 ---
 
-![Expo Electro at the Philarmonie in Paris, summer 2019]({{ site.baseurl }}/images/ElectroPhilarmoniedeParis2019-1.jpg =100x "Expo Electro Paris, Summer 2019")
+![Expo Electro at the Philarmonie in Paris, summer 2019]({{ site.baseurl }}/images/ElectroPhilarmoniedeParis2019-1.jpg | height=100 "Expo Electro Paris, Summer 2019")
 
 ## Why learn scraping?
 
