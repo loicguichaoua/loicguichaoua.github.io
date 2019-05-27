@@ -1,5 +1,9 @@
 <head>
-  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} - {% include svg-icons.html %} – {{ site.description }}</title>
+  <title>
+  	{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} - 
+  	<span>{% include svg-icons.html %}</span>
+  	 – {{ site.description }}
+  </title>
 
   {% include meta.html %}
   {% include fonts.html %}
