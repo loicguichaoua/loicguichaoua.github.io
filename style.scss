@@ -552,44 +552,42 @@ nav {
   background-color: $footer-background-color;
 }
 
-// Social icons
-svg-icon {
-  display: block !important;
-  height: 50px !important;
-  font-size: 0 !important;
-  list-style: none !important;
-  margin: 0 !important;
-  text-align: center !important;
-
-  li {
-    display: inline-block !important;
-    margin: 10px !important;
-  }
-
-  svg {
-    height: 30px !important;
-    width: 30px !important;
-  }
-
-  em {
-    font-size: 18px !important;
-    line-height: 1.5 !important;
-    margin-top: -.75em !important;
-    position: absolute !important;
-    text-align: center !important;
-    top: 50% !important;
-    right: 0 !important;
-    bottom: 0 !important;
-    left: 0 !important;
-  }
-}
-
 footer {
   padding: 20px 0;
   text-align: center;
 
   p {
     font-size: $small-font-size;
+  }
+
+  .svg-icon {
+    display: block;
+    font-size: 0;
+    list-style: none;
+    margin: 0;
+    text-align: center;
+
+    li {
+      display: inline-block;
+      margin: 10px;
+    }
+
+    svg {
+      height: 30px;
+      width: 30px;
+    }
+
+    em {
+      font-size: 18px;
+      line-height: 1.5;
+      margin-top: -.75em;
+      position: absolute;
+      text-align: center;
+      top: 50%;
+      right: 0;
+      bottom: 0;
+      left: 0;
+    }
   }
 }
 
