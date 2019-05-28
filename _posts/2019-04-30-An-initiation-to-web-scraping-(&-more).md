@@ -3,12 +3,7 @@ description: "Let's talk about Electro music. And Web Scraping."
 comments: true
 ---
 
-<img 
-    src="{{ site.baseurl }}/images/ElectroPhilarmoniedeParis2019-1.jpg" 
-    alt="Smiley face" 
-    height="42" 
-    width="42"
->
+<img src="{{ site.baseurl }}/images/ElectroPhilarmoniedeParis2019-1.jpg" alt="Smiley face" height="42" width="42">
 
 ## Why learn scraping?
 
