@@ -9,11 +9,10 @@ comments: true
 <br>
 
 ## Why a blog?  
-
-
-- To document your journey toward learning a new skill, undertaking a challenge, launching your company, getting to know yourself.....  
-- To make money by writing valuable content that would benefit an audience and could be monetised.....  
-..... Or both!  
+<br>
+- To document your journey toward learning a new skill, undertaking a challenge, launching your company, getting to know yourself...  
+- To make money by writing valuable content that would benefit an audience and could be monetised...  
+... Or both!  
 
 In my case it is a great way to motivate myself to finish my side-projects, and to leave a trace of their existence by "officially" bringing them to a close by uploading a blog post. Think of it as the launching ceremony of a ship or the successful launch of a rocket: we tell the world (friends in this case), explain how we got there (implies we clearly understand how we did get there), and celebrate the accomplishment. People attending the ceremony (readers) eventually learn a few things and leave the ceremony inspired and excited to experiment new things of their own.  
 
@@ -21,8 +20,7 @@ I also ran into a number of inspiring blogs about people's personal journey over
 <br><br>
 
 ## What about?  
-
-
+<br>
 - Stuff you're curious about, maybe even good at, "Passions".  
 - Or content catered to your audience.  
 - ... or both!  
