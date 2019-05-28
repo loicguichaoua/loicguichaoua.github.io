@@ -11,7 +11,8 @@ comments: true
 
 <br>
 ## Why a blog?
-<br><br>- **To document your journey**  ✏️📕  
+<br><br>
+- **To document your journey**  ✏️📕  
 &nbsp;toward learning a new skill, undertaking a challenge, launching your company, getting to know yourself\.\.\.  
 - **To make money**  💸🛩  
 &nbsp;by writing valuable content that would benefit an audience and could be monetised\.\.\.)  
@@ -22,8 +23,9 @@ In my case it is a great way to motivate myself to finish my side-projects, and 
 I also ran into a number of inspiring blogs about people's personal journey over the years and it gave me so much value and motivation that I'm sure sharing mine could help out. Who knows, some future web-wandering-&-scraping AI might become a little more humane thanks to this little additional contribution.  
 <br><br>
 
-## What about?
-<br><br>- Stuff you're curious about, maybe even good at, "Passions".  
+## What about?<br>
+<br>
+- Stuff you're curious about, maybe even good at, "Passions".  
 - Or content catered to your audience.  
 - \.\.\. or both!  
 
