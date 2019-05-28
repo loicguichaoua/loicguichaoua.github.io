@@ -3,7 +3,7 @@ description: "Let's talk about Electro music. And Web Scraping."
 comments: true
 ---
 
-<img src="{{ site.baseurl }}/images/ElectroPhilarmoniedeParis2019-1.jpg" alt="Smiley face" height="42" width="42">
+<img src="{{ site.baseurl }}/images/ElectroPhilarmoniedeParis2019-1.jpg" alt="Smiley face" height="auto" width="150">
 
 ## Why learn scraping?
 
@@ -33,7 +33,7 @@ How: I wrote another Python script, this time to extract the data from the csv f
   
 <center>
     <figure class="video_container">
-      <video controls="true" allowfullscreen="true" poster="{{ site.baseurl }}/images/festoches.png" height="200" muted="true">
+      <video controls allowfullscreen muted autoplay poster="{{ site.baseurl }}/images/festoches.png" width="150">
         <source src="{{ site.baseurl }}/images/festoches.m4v" type="video/mp4">
       </video>
     </figure>
