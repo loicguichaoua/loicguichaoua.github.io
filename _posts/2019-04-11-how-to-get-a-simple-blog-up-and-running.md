@@ -9,7 +9,7 @@ comments: true
 <br>
 
 ## Why a blog?  
-<br>
+
 - To document your journey toward learning a new skill, undertaking a challenge, launching your company, getting to know yourself...  
 - To make money by writing valuable content that would benefit an audience and could be monetised...  
 ... Or both!  
