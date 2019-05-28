@@ -35,6 +35,7 @@ Note that by respectfully, I mean that some websites do not wish to be scraped, 
 **Step #3:** Adding events from a CSV file to my Google Calendar  
 Tools: [`Python`](https://www.python.org/), [`Pandas`](https://pandas.pydata.org/), [`Google Calendar API`](https://developers.google.com/calendar/).  
 How: I wrote another Python script, this time to extract the data from the csv file and upload it to my Google Calendar using its API (I find the tutorial videos very handy). I also added code to update existing events every time I run the program. Pandas, a Python data analysis library, was extremely convenient to structure and play with the data.    
+  
 <center>
     <figure class="video_container">
       <video controls="true" allowfullscreen="true" poster="{{ site.baseurl }}/images/festoches.png" height="200" muted="true">
@@ -42,8 +43,8 @@ How: I wrote another Python script, this time to extract the data from the csv f
       </video>
     </figure>
 </center>
-
-
+  
+  
 ## Bottom line:
 
 In just about 2 days, I was able to write code which allows me to fill and easily update a Calendar containing hundreds (1500+) of upcoming electro and deep house festivals worldwide over the next 24 months, which I can easily share with friends.
