@@ -20,7 +20,7 @@ I also ran into a number of inspiring blogs about people's personal journey over
 <br><br>
 
 ## What about?  
-<br>
+
 - Stuff you're curious about, maybe even good at, "Passions".  
 - Or content catered to your audience.  
 - ... or both!  
