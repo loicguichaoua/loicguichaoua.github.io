@@ -2,10 +2,12 @@
 description: "Let's talk about Electro music. And Web Scraping."
 comments: true
 ---
-
-<img src="{{ site.baseurl }}/images/ElectroPhilarmoniedeParis2019-1.jpg" alt="Smiley face" height="auto" width="150">
-
-## Why learn scraping?
+  
+<center>
+    <img src="{{ site.baseurl }}/images/ElectroPhilarmoniedeParis2019-1.jpg" alt="Smiley face" height="auto" width="150">
+</center>
+  
+## Why learn web scraping? 
 
 I love electro & house music, and have always wanted to have all the upcoming music festivals (worldwide) effortlessly show up in my Google Calendar, so that I could simply pick my next travel destination according to where the best events would be taking place.
 
@@ -22,7 +24,7 @@ I had heard about scraping in the past, which allows to quickly extract data fro
 Tools: [`Google search`](https://www.google.com/), `friends' recommendations`.  
 How: I made a shortlist of websites which were fairly important, regularly maintained, with the most events listed and with the most detailed information per event. I ended up choosing one single website.
 
-**Step #2:** (_respectfully_) scraping the Events listing  
+**Step #2:** (_respectfully_) scraping the Events listing
 Tools: [`Python`](https://www.python.org/), [`Scrapy`](https://scrapy.org/), [`Virtual Environments`](https://www.pythonforbeginners.com/basics/how-to-use-python-virtualenv/).  
 How: I wrote a Python script using Scrapy, a Python framework which made it easy to extract data about 1500+ events from the website, while storing it all neatly in a csv file, all in just a few seconds. 
 Note that by respectfully, I mean that some websites do not wish to be scraped, Scrapy automatically pays attention to this by checking the websites' "robot.txt" file.
