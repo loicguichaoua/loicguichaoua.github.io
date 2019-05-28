@@ -24,7 +24,7 @@ Think of it as the launching ceremony of a ship or the successful launch of a ro
 
 <br><br>
 <center>
-    <img src="https://gph.is/1LHzQLj" alt="Ship launch">
+    <img src="https://media.giphy.com/media/XrOxNVQeqAKJy/giphy.gif" alt="Ship launch">
 </center>  
 <br><br>
 
