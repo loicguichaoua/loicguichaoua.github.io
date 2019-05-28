@@ -14,7 +14,7 @@ comments: true
 
 I love electro & house music, and have always wanted to have all the upcoming music festivals (worldwide) effortlessly show up in my Google Calendar, so that I could simply pick my next travel destination according to where the best events would be taking place.
 
-The thing is, since Google's Public Calendars were depleted[<sup><a href="" class="footnote" id="1up">1</a></sup>](#1dn), I haven't been able to find a practical solution that would allow me to easily (automatically) add (hundreds to thousands of) events to my calendar.
+The thing is, since Google's Public Calendars were depleted[<sup><a href="#1dn" class="footnote" id="1up">1</a></sup>](#1dn), I haven't been able to find a practical solution that would allow me to easily (automatically) add (hundreds to thousands of) events to my calendar.
 
 Say, if I wanted to add all the upcoming electro festivals worldwide (hundreds) already listed on my favorite website, I would have to do it manually, and this would take hours if not days.
 
