@@ -20,7 +20,7 @@ comments: true
 
 In my case it is a great way to motivate myself to finish my side-projects by "officially" bringing them to a close with a dedicated blog post. 
 
-Think of it as the launching ceremony of a ship: you've worked hard to build something cool and want to let your audience know about it. People attending the ceremony will eventually learn a few things and walk away inspired and excited to build their own [USS Intrepid aircraft carrier to hold Electro music parties on its deck](https://www.facebook.com/events/2216781245302819/). Who knows.  
+Think of it as the launching ceremony of a ship: you've worked hard to build something cool and want to let your audience know about it. People attending the ceremony will eventually learn a few things and walk away inspired and excited to build their own USS Intrepid aircraft carrier. Or to actually [hold Electro music parties on its deck](https://www.facebook.com/events/2216781245302819/). Who knows. People can have weird ideas.  
 
 <br><br>
 <center>
