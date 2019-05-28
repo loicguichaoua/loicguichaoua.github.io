@@ -23,7 +23,7 @@ I also ran into a number of inspiring blogs about people's personal journey over
 <br>
 - Stuff you're curious about, maybe even good at, "Passions".  
 - Or content catered to your audience.  
-- ... or both!  
+- \.\.\. or both!  
 
 In the case of this blog, several topics should show up in the blog feed, such as (1) Code, (2) Lifestyle, (3) Europe & China. More about my interests in another article.  
 <br><br>
@@ -37,7 +37,7 @@ How: This is a personal blog, potentially a place to showcase experience and ski
 **Step #2**: Choose how you wish to build your blog  
 Tools: [Jekyll](https://jekyllrb.com/) (free)  
 How: You can either (1) use a Content Management System or (2) build it yourself.  
-(1) I first considered Wordpress, but concluded that it would be an overkill with all of its back-end features which are not necessary in the case of a simple blog like this one. I then tried Blogger (by Google) but the templates just look... hideous. I then turned to digital nomad friends who mentioned [Ghost](https://ghost.org/) and [Jekyll](https://jekyllrb.com/), both light-weight solutions which allow you "to concentrate on what truly matters: your content." Great.  
+(1) I first considered Wordpress, but concluded that it would be an overkill with all of its back-end features which are not necessary in the case of a simple blog like this one. I then tried Blogger (by Google) but the templates just look\.\.\. hideous. I then turned to digital nomad friends who mentioned [Ghost](https://ghost.org/) and [Jekyll](https://jekyllrb.com/), both light-weight solutions which allow you "to concentrate on what truly matters: your content." Great.  
 (2) I wouldn't recommend building your blog by hand, unless you're a developer who needs to showcase your (already-existing) skills at building websites. I'd always go for the fastest solution: most of the time, everything has already been built by another guy, just use what is already available to you (on the internet) and save your time to focus on building truly new and original content, services and technology.  
 
 **Step #3**: Find a server to host your blog files  
