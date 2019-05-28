@@ -7,7 +7,7 @@ comments: true
     <img class="img-post" src="{{ site.baseurl }}/images/blog-howto.png" alt="Blog as of April 2019" height="auto" width="400">
 </center>  
 <br><br>
->A blog (a truncation of "weblog") is a discussion or informational website published on the World Wide Web consisting of discrete, often informal diary-style text entries (posts).  
+>A blog (initially "weblog") is a discussion or informational website published on the World Wide Web consisting of discrete, often informal diary-style text entries (posts).  
 
 <br>
 ## Why a blog?
