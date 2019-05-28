@@ -35,7 +35,7 @@ How: I wrote another Python script, this time to extract the data from the csv f
 <br><br>
 <center>
     <figure class="video_container">
-      <video allowfullscreen muted autoplay poster="{{ site.baseurl }}/images/festoches.png" width="150">
+      <video allowfullscreen muted autoplay loop poster="{{ site.baseurl }}/images/festoches.png" width="150">
         <source src="{{ site.baseurl }}/images/festoches.m4v" type="video/mp4">
       </video>
     </figure>
