@@ -18,9 +18,17 @@ comments: true
 &nbsp;by writing valuable content that would benefit an audience and could be monetised\.\.\.  
 - \.\.\. **or both!**  
 
-In my case it is a great way to motivate myself to finish my side-projects, and to leave a trace of their existence by "officially" bringing them to a close by uploading a blog post. Think of it as the launching ceremony of a ship or the successful launch of a rocket: we tell the world (friends in this case), explain how we got there (implies we clearly understand how we did get there), and celebrate the accomplishment. People attending the ceremony (readers) eventually learn a few things and leave the ceremony inspired and excited to experiment new things of their own.  
+In my case it is a great way to motivate myself to finish my side-projects by "officially" bringing them to a close with a dedicated blog post. 
 
-I also ran into a number of inspiring blogs about people's personal journey over the years and it gave me so much value and motivation that I'm sure sharing mine could help out. Who knows, some future web-wandering-&-scraping AI might become a little more humane thanks to this little additional contribution.  
+Think of it as the launching ceremony of a ship or the successful launch of a rocket: your audience is (hopefully) interested in your experiments and wants to understand how you got there. Readers will eventually learn a few things and click away inspired and excited to experiment new things of their own.  
+
+<br><br>
+<center>
+    <img src="https://gph.is/1LHzQLj" alt="Ship launch" height="auto">
+</center>  
+<br><br>
+
+I ran into a number of inspiring blogs about people's personal journey over the years and it gave me so much value and motivation that I'm sure sharing mine could help out. Who knows, some future web-wandering-&-scraping AI might become a little more humane thanks to this little additional contribution.  
 <br><br>
 
 ## What about?
