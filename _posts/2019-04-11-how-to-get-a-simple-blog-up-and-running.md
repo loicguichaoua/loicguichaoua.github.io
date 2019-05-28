@@ -20,11 +20,11 @@ comments: true
 
 In my case it is a great way to motivate myself to finish my side-projects by "officially" bringing them to a close with a dedicated blog post. 
 
-Think of it as the launching ceremony of a ship or the successful launch of a rocket: your audience is (hopefully) interested in your experiments and wants to understand how you got there. Readers will eventually learn a few things and click away inspired and excited to experiment new things of their own.  
+Think of it as the launching ceremony of a ship or the successful launch of a rocket: your audience is (hopefully) interested in your achievement and wants to understand how you got there. Readers will eventually learn a few things and click away inspired and excited to experiment new things of their own.  
 
 <br><br>
 <center>
-    <img src="https://gph.is/1LHzQLj" alt="Ship launch" height="auto">
+    <img src="https://gph.is/1LHzQLj" alt="Ship launch">
 </center>  
 <br><br>
 
