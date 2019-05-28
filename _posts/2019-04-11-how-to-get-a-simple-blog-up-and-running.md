@@ -4,6 +4,7 @@ comments: true
 ---
 <br><br>
 ## Why a blog?  
+
 - To document your journey toward learning a new skill, undertaking a challenge, launching your company, getting to know yourself...
 - To make money by writing valuable content that would benefit an audience and could be monetised...
 ... Or both!  
@@ -19,8 +20,7 @@ I also ran into a number of inspiring blogs about people's personal journey over
 - Or content catered to your audience.  
 - ... or both!  
 
-In the case of this blog, several topics should show up in the blog feed, such as (1) Code, (2) Lifestyle, (3) Europe & China. More about my interests in another article.      
-
+In the case of this blog, several topics should show up in the blog feed, such as (1) Code, (2) Lifestyle, (3) Europe & China. More about my interests in another article.  
 
 
 ## How To:  
@@ -37,7 +37,7 @@ How: You can either (1) use a Content Management System or (2) build it yourself
 
 **Step #3**: Find a server to host your blog files  
 Tools: [Github pages](https://pages.github.com) (free)  
-How: Most websites that sell domain names also offer hosting services. In my case, Jekyll offered free hosting on Github Pages, so I went for it. Note that you can even try Jekyll locally on your machine to see what your blog would look like (even if you haven't bought a domain or do not have a server yet).      
+How: Most websites that sell domain names also offer hosting services. In my case, Jekyll offered free hosting on Github Pages, so I went for it. Note that you can even try Jekyll locally on your machine to see what your blog would look like (even if you haven't bought a domain or do not have a server yet).  
 
 ## Bottom line:  
 
