@@ -22,7 +22,7 @@ In my case it is a great way to motivate myself to finish my side-projects by "o
 
 Think of each new blog post as the launching ceremony of a ship: you've worked hard to build something cool and want to let your audience know about it.  
 
-People attending the ceremony might learn a few things and walk away inspired. Some might even decide to build their own aircraft carrier. Others might decide to [throw an Electro music party on the deck of the USS Intrepid](https://www.facebook.com/events/2216781245302819/). Who knows what the hardwork of the shipyard workers might inspire.
+People attending the ceremony might learn a few things and walk away inspired. Some might even decide to build their own aircraft carrier. Others might decide to [throw an Electro music party on the deck of the USS Intrepid](https://www.facebook.com/events/2216781245302819/). Who knows.
 
 <br>
 <center>
