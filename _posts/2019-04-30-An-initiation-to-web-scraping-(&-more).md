@@ -9,6 +9,7 @@ comments: true
 <br>
 >Electro music was inspired by House music, which was born in Chicago during the early 1980's, more precisely in the "Warehouse", the club where DJ Frankie Knuckles invented the style.  
 
+<br>
 ## Why learn web scraping?  
 
 I love electro & house music, and have always wanted to have all the upcoming music festivals (worldwide) effortlessly show up in my Google Calendar, so that I could simply pick my next travel destination according to where the best events would be taking place.  
