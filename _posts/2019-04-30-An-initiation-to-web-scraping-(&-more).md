@@ -6,7 +6,9 @@ comments: true
 <center>
     <img src="{{ site.baseurl }}/images/ElectroPhilarmoniedeParis2019-1.jpg" alt="Expo Electro at the Philarmonie de Paris, summer 2019" height="auto" width="150">
 </center>  
-<br><br>
+<br>
+>House music was born in the 1980's in Chicago. Its name comes from the "Warehouse", the club where DJ Frankie Knuckles invented the style.
+<br>
 ## Why learn web scraping?  
 
 I love electro & house music, and have always wanted to have all the upcoming music festivals (worldwide) effortlessly show up in my Google Calendar, so that I could simply pick my next travel destination according to where the best events would be taking place.  
