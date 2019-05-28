@@ -15,8 +15,8 @@ The thing is, since Google's Public Calendars were depleted[<a href="#1dn" class
 
 Say, if I wanted to add all the upcoming electro festivals worldwide (hundreds) already listed on my favorite website, I would have to do it manually, and this would take hours if not days.  
 
-I had heard about scraping in the past, which allows to quickly extract data from websites, and I knew I could somehow use Google Calendar's API to add events to my calendar using code. That's all I needed to get started.      
-
+I had heard about scraping in the past, which allows to quickly extract data from websites, and I knew I could somehow use Google Calendar's API to add events to my calendar using code. That's all I needed to get started.  
+<br><br>
 
 ## How I went about it:    
 
