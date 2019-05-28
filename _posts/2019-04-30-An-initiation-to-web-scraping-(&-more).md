@@ -3,7 +3,7 @@ description: "Let's talk about Electro music. And Web Scraping."
 comments: true
 ---
 
-![Expo Electro at the Philarmonie in Paris, summer 2019]({{ site.baseurl }}/images/ElectroPhilarmoniedeParis2019-1.jpg "Expo Electro Paris, Summer 2019"){: .shadow .width=250px}
+![Expo Electro at the Philarmonie in Paris, summer 2019]({{ site.baseurl }}/images/ElectroPhilarmoniedeParis2019-1.jpg "Expo Electro Paris, Summer 2019"){: .width=250px}
 
 ## Why learn scraping?
 
@@ -28,7 +28,7 @@ How: I wrote a Python script using Scrapy, a Python framework which made it easy
 Note that by respectfully, I mean that some websites do not wish to be scraped, Scrapy automatically pays attention to this by checking the websites' "robot.txt" file.
 
 **Step #3:** Adding events from a CSV file to my Google Calendar  
-Tools: [`Python`](https://www.python.org/), [`Pandas`](https://pandas.pydata.org/), [`Google Calendar API`](https://developers.google.com/calendar/).
+Tools: [`Python`](https://www.python.org/), [`Pandas`](https://pandas.pydata.org/), [`Google Calendar API`](https://developers.google.com/calendar/).  
 How: I wrote another Python script, this time to extract the data from the csv file and upload it to my Google Calendar using its API (I find the tutorial videos very handy). I also added code to update existing events every time I run the program. Pandas, a Python data analysis library, was extremely convenient to structure and play with the data.    
 <center>
     <figure class="video_container">
@@ -49,4 +49,4 @@ I'll see how handy this Calendar proves to be, in the meantime I have learnt a l
 
 ****
 
-<a class="anchor" id="1"></a>. Google public calendars: somewhere around 2009, unmaintained public user calendars actually brought Google more blame than praise from its users so Google decided to end the project.
+<a class="anchor" id="1">1</a>. Google public calendars: somewhere around 2009, unmaintained public user calendars actually brought Google more blame than praise from its users so Google decided to end the project.
