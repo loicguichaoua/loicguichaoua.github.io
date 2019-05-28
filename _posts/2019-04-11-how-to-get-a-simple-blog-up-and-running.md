@@ -35,7 +35,7 @@ In the case of this blog, several topics should show up in the blog feed, such a
 ## How To:  
 
 **Step #1**: Purchase a domain  
-Tools: [`Google Domains`](https://domains.google) (12€ per year), or [`one of many other options](https://www.google.com/search?q=buy+domain+name)  
+Tools: [`Google Domains`](https://domains.google) (12€ per year), or [`one of many other options`](https://www.google.com/search?q=buy+domain+name)  
 How: This is a personal blog, potentially a place to showcase experience and skills, thus I looked for my full name which, luckily, is not very common so the domain (_www.loicguichaoua.com_) was available. I bought it via Google Domains since it offered turnkey solutions to start a blog if you book the domain through their service. Note that there exists many solutions to buy a domain name, simply type "buy domain name" in your browser.  
 
 **Step #2**: Choose how you wish to build your blog  
