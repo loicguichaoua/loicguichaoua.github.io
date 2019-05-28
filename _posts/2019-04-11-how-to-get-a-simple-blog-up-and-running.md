@@ -6,12 +6,12 @@ comments: true
 <center>
     <img class="img-post" src="{{ site.baseurl }}/images/blog-howto.png" alt="Blog as of April 2019" height="auto" width="400">
 </center>  
-<br>
+<br><br>
 >A blog (a truncation of "weblog") is a discussion or informational website published on the World Wide Web consisting of discrete, often informal diary-style text entries (posts).  
 
 <br>
 ## Why a blog?
-<br><br>
+<span/>
 - **To document your journey**  ✏️📕  
 &nbsp;toward learning a new skill, undertaking a challenge, launching your company, getting to know yourself\.\.\.  
 - **To make money**  💸🛩  
@@ -24,7 +24,6 @@ I also ran into a number of inspiring blogs about people's personal journey over
 <br><br>
 
 ## What about?<br>
-<br>
 - Stuff you're curious about, maybe even good at, "Passions".  
 - Or content catered to your audience.  
 - \.\.\. or both!  
