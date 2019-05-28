@@ -51,4 +51,6 @@ I'll see how handy this Calendar proves to be, in the meantime I have learnt a l
 
 ****
 
-<a href="#1up" class="footnote" id="1dn">1</a>. Google public calendars: somewhere around 2009, unmaintained public user calendars actually brought Google more blame than praise from its users so Google decided to end the project.
+<span class="footnote">
+    <a href="#1up" class="footnote" id="1dn">1.</a> Google public calendars: somewhere around 2009, unmaintained public user calendars actually brought Google more blame than praise from its users so Google decided to end the project.
+</span>
