@@ -7,7 +7,7 @@ comments: true
     <img src="{{ site.baseurl }}/images/ElectroPhilarmoniedeParis2019-1.jpg" alt="Expo Electro at the Philarmonie de Paris, summer 2019" height="auto" width="150">
 </center>  
 <br>
->Electro music was inspired by House music, which was born in Chicago during the early 1980's, more precisely in the "Warehouse", the club where DJ Frankie Knuckles invented the style.  
+>House music was born in Chicago during the early 1980's, more precisely in the "Warehouse", the club where DJ Frankie Knuckles invented the style.  
 
 <br>
 ## Why learn web scraping?  
