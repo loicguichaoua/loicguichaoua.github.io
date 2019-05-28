@@ -40,9 +40,7 @@ How: This is a personal blog, potentially a place to showcase experience and ski
 
 **Step #2**: Choose how you wish to build your blog  
 Tools: [`Jekyll`](https://jekyllrb.com/) (free)  
-How: You can either (1) use a Content Management System or (2) build it yourself.  
-(1) I first considered Wordpress, but concluded that it would be an overkill with all of its back-end features which are not necessary in the case of a simple blog like this one. I then tried Blogger (by Google) but the templates look really old and unattractive. I then turned to digital nomad friends who mentioned [`Ghost`](https://ghost.org/) and Jekyll, both light-weight solutions which allow you "to concentrate on what truly matters: your content." Great.  
-(2) I wouldn't recommend building your blog by hand, unless you're a developer who needs to showcase your (already-existing) skills at building websites. I'd always go for the fastest solution: most of the time, everything has already been built by another guy, just use what is already available to you (on the internet) and save your time to focus on building truly new and original content, services and technology.  
+How: There are many solutions that help you create a blog out there. I first considered Wordpress, but concluded that it would be an overkill with all of its back-end features which are not necessary in the case of a simple blog like this one. I then tried Blogger (by Google) but the templates look really old and unattractive. I then turned to digital nomad friends who mentioned [`Ghost`](https://ghost.org/) and Jekyll, both light-weight solutions which allow you "to concentrate on what truly matters: your content." Great.  
 
 **Step #3**: Find a server to host your blog files  
 Tools: [`Github Pages`](https://pages.github.com) (free)  
