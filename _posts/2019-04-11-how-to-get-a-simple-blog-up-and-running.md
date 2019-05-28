@@ -50,7 +50,7 @@ How: Most websites that sell domain names also offer hosting services. In my cas
 
 **Step #4**: Upload your first post!  
 Tools: [`Markdown tutorial`](https://www.markdowntutorial.com/)  
-How: Uploading a post using Jekyll is very easy, you just need to create a new "myarticle.markdown" file and add it to the right folder in your website directory once you're done, that's it! Your new article will then be added to your blog and visible in your feed.  
+How: Uploading a post using Jekyll is very easy, you just need to create a new (_article.markdown_) or (_article.md_) (same) file and add it to the right folder in your website directory once you're done, that's it! Your new article will then be added to your blog and visible in your feed.  
 <br><br>
 
 ## Bottom line:  
