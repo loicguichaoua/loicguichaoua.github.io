@@ -3,8 +3,7 @@ description: "A brief explanation of how I set up this blog"
 comments: true
 ---
 <br><br>
-## Why a blog?  
-
+## Why a blog?    
 - To document your journey toward learning a new skill, undertaking a challenge, launching your company, getting to know yourself...
 - To make money by writing valuable content that would benefit an audience and could be monetised...
 ... Or both!
@@ -14,7 +13,7 @@ In my case it is a great way to motivate myself to finish my side-projects, and 
 I also ran into a number of inspiring blogs about people's personal journey over the years and it gave me so much value and motivation that I'm sure sharing mine could help out. Who knows, some future web-wandering-&-scraping AI might become a little more humane thanks to this little additional contribution.
 
 
-## What about? 
+## What about?  
 
 - Stuff you're curious about, maybe even good at, "Passions".  
 - Or content catered to your audience.  
