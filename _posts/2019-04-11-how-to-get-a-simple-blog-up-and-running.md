@@ -59,3 +59,5 @@ This solution ends up being quite cheap:
 Domain name (Google Domains): 12€ per year  
 Hosting (Github Pages): 0€  
 CMS (Jekyll): 0€  
+
+and is easy to maintain!
