@@ -1,30 +1,29 @@
 ---
 description: "Let's talk about Electro music. And Web Scraping."
 comments: true
----
-  
+---    
 <center>
     <img src="{{ site.baseurl }}/images/ElectroPhilarmoniedeParis2019-1.jpg" alt="Smiley face" height="auto" width="150">
-</center>
-  
-## Why learn web scraping? 
+</center>  
 
-I love electro & house music, and have always wanted to have all the upcoming music festivals (worldwide) effortlessly show up in my Google Calendar, so that I could simply pick my next travel destination according to where the best events would be taking place.
+## Why learn web scraping?  
 
-The thing is, since Google's Public Calendars were depleted[<sup><a href="#1dn" class="footnote" id="1up">1</a></sup>](#1dn), I haven't been able to find a practical solution that would allow me to easily (automatically) add (hundreds to thousands of) events to my calendar.
+I love electro & house music, and have always wanted to have all the upcoming music festivals (worldwide) effortlessly show up in my Google Calendar, so that I could simply pick my next travel destination according to where the best events would be taking place.  
 
-Say, if I wanted to add all the upcoming electro festivals worldwide (hundreds) already listed on my favorite website, I would have to do it manually, and this would take hours if not days.
+The thing is, since Google's Public Calendars were depleted[<sup><a href="#1dn" class="footnote" id="1up">1</a></sup>](#1dn), I haven't been able to find a practical solution that would allow me to easily (automatically) add (hundreds to thousands of) events to my calendar.  
 
-I had heard about scraping in the past, which allows to quickly extract data from websites, and I knew I could somehow use Google Calendar's API to add events to my calendar using code. That's all I needed to get started.
+Say, if I wanted to add all the upcoming electro festivals worldwide (hundreds) already listed on my favorite website, I would have to do it manually, and this would take hours if not days.  
+
+I had heard about scraping in the past, which allows to quickly extract data from websites, and I knew I could somehow use Google Calendar's API to add events to my calendar using code. That's all I needed to get started.      
 
 
-## How I went about it:
+## How I went about it:    
 
 **Step #1:** finding reliable, well maintained Events listings  
 Tools: [`Google search`](https://www.google.com/), `friends' recommendations`.  
-How: I made a shortlist of websites which were fairly important, regularly maintained, with the most events listed and with the most detailed information per event. I ended up choosing one single website.
+How: I made a shortlist of websites which were fairly important, regularly maintained, with the most events listed and with the most detailed information per event. I ended up choosing one single website.    
 
-**Step #2:** (_respectfully_) scraping the Events listing
+**Step #2:** (_respectfully_) scraping the Events listing  
 Tools: [`Python`](https://www.python.org/), [`Scrapy`](https://scrapy.org/), [`Virtual Environments`](https://www.pythonforbeginners.com/basics/how-to-use-python-virtualenv/).  
 How: I wrote a Python script using Scrapy, a Python framework which made it easy to extract data about 1500+ events from the website, while storing it all neatly in a csv file, all in just a few seconds. 
 Note that by respectfully, I mean that some websites do not wish to be scraped, Scrapy automatically pays attention to this by checking the websites' "robot.txt" file.
