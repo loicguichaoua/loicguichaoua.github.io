@@ -8,8 +8,7 @@ comments: true
 </center>  
 <br>
 
-## Why a blog?
-<br>
+## Why a blog?<br>
 - **To document your journey** ✏️📕  
 &nbsp;&nbsp;toward learning a new skill, undertaking a challenge, launching your company, getting to know yourself\.\.\.  
 - **To make money** 💸🛩  
