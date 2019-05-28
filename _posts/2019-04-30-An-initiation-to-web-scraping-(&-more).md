@@ -5,6 +5,8 @@ comments: true
 
 ![Expo Electro at the Philarmonie in Paris, summer 2019]({{ site.baseurl }}/images/ElectroPhilarmoniedeParis2019-1.jpg "Expo Electro Paris, Summer 2019"){: .width=250px}
 
+![image-title-here]({{ site.baseurl }}/images/ElectroPhilarmoniedeParis2019-1.jpg){:class="img-post"}
+
 ## Why learn scraping?
 
 I love electro & house music, and have always wanted to have all the upcoming music festivals (worldwide) effortlessly show up in my Google Calendar, so that I could simply pick my next travel destination according to where the best events would be taking place.

@@ -260,6 +260,10 @@ img {
   max-width: 100%;
   margin: 0 0 1em;
   border-radius: 5px;
+
+  img-post {
+    width: 200px;
+  }
 }
 
 // Fixes images in popup boxes from Google Translate
