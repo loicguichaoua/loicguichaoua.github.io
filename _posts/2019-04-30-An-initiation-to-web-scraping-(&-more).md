@@ -51,4 +51,4 @@ I'll see how handy this Calendar proves to be, in the meantime I have learnt a l
 
 ****
 
-<a class="anchor" id="1">1</a>. Google public calendars: somewhere around 2009, unmaintained public user calendars actually brought Google more blame than praise from its users so Google decided to end the project.
+<a class="footnote" id="1">1</a>. Google public calendars: somewhere around 2009, unmaintained public user calendars actually brought Google more blame than praise from its users so Google decided to end the project.

@@ -5,6 +5,16 @@
 // IMPORTS
 //
 
+// Selectors:
+// element {}
+// .class {}
+// element:pseudoclass {} (special state of an element)
+// element::pseudoelement {} (part of an element)
+// element[attribute] {}
+// #id {}
+// @include and @import (special)
+
+
 @import "reset";
 @import "open-color";
 @import "variables";
@@ -261,7 +271,7 @@ img {
   margin: 0 0 1em;
   border-radius: 5px;
 
-  img-post {
+  .img-post {
     width: 200px;
   }
 }
