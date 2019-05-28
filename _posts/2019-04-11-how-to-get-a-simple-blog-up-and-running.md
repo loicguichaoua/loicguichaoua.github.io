@@ -3,6 +3,11 @@ description: "A brief explanation of how I set up this blog"
 comments: true
 ---
 <br><br>
+<center>
+    <img src="{{ site.baseurl }}/images/blog-howto.png" alt="Blog as of April 2019" height="auto" width="400" style="box-shadow: 5px;">
+</center>  
+<br>
+
 ## Why a blog?  
 
 
