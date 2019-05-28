@@ -31,7 +31,7 @@ People attending the ceremony might learn a few things and walk away inspired. S
 </center>  
 <br>
 
-I also ran into a number of inspiring blogs about people's personal journey over many years and it gave me so much value and motivation that I'm sure sharing mine could bring value to the table.  
+I also ran into a number of inspiring blogs about people's personal journey over many years and it gave me so much value and motivation that I'm sure sharing this type of content can bring value to the table.  
 <br><br>
 
 ## What about?
