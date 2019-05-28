@@ -4,7 +4,7 @@ comments: true
 ---
 <br><br>
 <center>
-    <img class="img-post" src="{{ site.baseurl }}/images/blog-howto.png" alt="Blog as of April 2019" height="auto" width="400" style="box-shadow: 5px;">
+    <img class="img-post" src="{{ site.baseurl }}/images/blog-howto.png" alt="Blog as of April 2019" height="auto" width="400">
 </center>  
 <br>
 
