@@ -36,7 +36,7 @@ In the case of this blog, several topics should show up in the blog feed, such a
 
 **Step #1**: Purchase a domain  
 Tools: [`Google Domains`](https://domains.google) (12€ per year), or [`one of many other options`](https://www.google.com/search?q=buy+domain+name)  
-How: This is a personal blog, potentially a place to showcase experience and skills, thus I looked for my full name which, luckily, is not very common so the domain (_www.loicguichaoua.com_) was available. I bought it via Google Domains since it offered turnkey solutions to start a blog if you book the domain through their service. Note that there exists many solutions to buy a domain name, simply type "buy domain name" in your browser.  
+How: This is a personal blog, potentially a place to showcase experience and skills, thus I looked for my full name which, luckily, is not very common so the domain _www.loicguichaoua.com_ was available. I bought it via Google Domains since it offered turnkey solutions to start a blog if you book the domain through their service. Note that there exists many solutions to buy a domain name, simply type "buy domain name" in your browser.  
 
 **Step #2**: Choose how you wish to build your blog  
 Tools: [`Jekyll`](https://jekyllrb.com/) (free)  
@@ -50,7 +50,7 @@ How: Most websites that sell domain names also offer hosting services. In my cas
 
 **Step #4**: Upload your first post!  
 Tools: [`Markdown tutorial`](https://www.markdowntutorial.com/)  
-How: Uploading a post using Jekyll is very easy, you just need to create a new (_article.markdown_) or (_article.md_) (same) file and add it to the right folder in your website directory once you're done, that's it! Your new article will then be added to your blog and visible in your feed.  
+How: Uploading a post using Jekyll is very easy, you just need to create a new _article.markdown_ or _article.md_ (same) file and add it to the right folder in your website directory once you're done, that's it! Your new article will then be added to your blog and visible in your feed.  
 Note that you can either edit your website on your computer and upload it to your server, or, if you use my configuration, directly on your Github repository.
 <br><br>
 
