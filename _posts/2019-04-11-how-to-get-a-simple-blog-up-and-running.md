@@ -20,7 +20,7 @@ comments: true
 
 In my case it is a great way to motivate myself to finish my side-projects by "officially" bringing them to a close with a dedicated blog post. 
 
-Think of it as the launching ceremony of a ship or the successful launch of a rocket: your audience is (hopefully) interested in your achievement and wants to understand how you got there. Readers will eventually learn a few things and click away inspired and excited to experiment new things of their own.  
+Think of it as the launching ceremony of a ship: you've worked hard to build something cool and want to let your audience know about it. People attending the ceremony will eventually learn a few things and walk away inspired and excited to build their own _USS Intrepid_ aircraft carrier on which to hold Electro music parties and dance in circles. Who knows.  
 
 <br><br>
 <center>
@@ -28,7 +28,7 @@ Think of it as the launching ceremony of a ship or the successful launch of a ro
 </center>  
 <br><br>
 
-I ran into a number of inspiring blogs about people's personal journey over the years and it gave me so much value and motivation that I'm sure sharing mine could help out. Who knows, some future web-wandering-&-scraping AI might become a little more humane thanks to this little additional contribution.  
+I also ran into a number of inspiring blogs about people's personal journey over many years and it gave me so much value and motivation that I'm sure sharing mine could bring value to the table.  
 <br><br>
 
 ## What about?
