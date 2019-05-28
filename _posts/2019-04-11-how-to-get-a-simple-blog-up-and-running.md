@@ -20,7 +20,9 @@ comments: true
 
 In my case it is a great way to motivate myself to finish my side-projects by "officially" bringing them to a close with a dedicated blog post. 
 
-Think of it as the launching ceremony of a ship: you've worked hard to build something cool and want to let your audience know about it.
+Think of each new blog post as the launching ceremony of a ship: you've worked hard to build something cool and want to let your audience know about it.  
+
+People attending the ceremony might learn a few things and walk away inspired. Some might even decide to build their own aircraft carrier. Others, fond of Electro, might just think of trying to convince the owners of the USS Intrepid to [throw an Electro music party on its deck](https://www.facebook.com/events/2216781245302819/). No one can tell for sure.  
 
 <br>
 <center>
@@ -28,8 +30,6 @@ Think of it as the launching ceremony of a ship: you've worked hard to build som
     <span style="font-size: 12px;">Successful launch of a blog post 🍾</span>
 </center>  
 <br>
-
-People attending the ceremony might learn a few things and walk away inspired. Some might even decide to build their own aircraft carrier, others, fond of Electro, might just think of trying to convince the owners of the USS Intrepid to [throw an Electro music party on its deck](https://www.facebook.com/events/2216781245302819/). No one can tell for sure.  
 
 I also ran into a number of inspiring blogs about people's personal journey over many years and it gave me so much value and motivation that I'm sure sharing mine could bring value to the table.  
 <br><br>
