@@ -2,8 +2,7 @@
 description: "A brief explanation of how I set up this blog"
 comments: true
 ---
-  
-  
+<br><br>
 ## Why a blog?  
 
 - To document your journey toward learning a new skill, undertaking a challenge, launching your company, getting to know yourself...
