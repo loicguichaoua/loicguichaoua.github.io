@@ -29,7 +29,7 @@ How: I made a shortlist of websites which were fairly important, regularly maint
 
 **Step #2:** (_respectfully_) scraping the Events listing 🌍➡💻🤔  
 Tools: [`Python`](https://www.python.org/), [`Scrapy`](https://scrapy.org/), [`Virtual Environments`](https://www.pythonforbeginners.com/basics/how-to-use-python-virtualenv/).  
-How: I wrote a Python script using Scrapy, a Python framework which made it easy to extract data about 1500+ events from the website, while storing it all neatly in a csv file, all in just a few seconds. 
+How: I wrote a Python script using Scrapy, a Python framework which made it easy to extract data about 1500+ events from the above-mentioned Events listings, while storing it all neatly in a csv file, all in just a few seconds.  
 Note that by respectfully, I mean that some websites do not wish to be scraped, Scrapy automatically pays attention to this by checking the websites' "robot.txt" file.
 
 **Step #3:** Adding events from a CSV file to my Google Calendar 📅⬅💻😁  
