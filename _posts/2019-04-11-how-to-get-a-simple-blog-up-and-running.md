@@ -4,12 +4,12 @@ comments: true
 ---
 <br><br>
 <center>
-    <img src="{{ site.baseurl }}/images/blog-howto.png" alt="Blog as of April 2019" height="auto" width="400" style="box-shadow: 5px;">
+    <img class="img-post" src="{{ site.baseurl }}/images/blog-howto.png" alt="Blog as of April 2019" height="auto" width="400" style="box-shadow: 5px;">
 </center>  
 <br>
 
 ## Why a blog?  
-
+<br>
 - To document your journey toward learning a new skill, undertaking a challenge, launching your company, getting to know yourself\.\.\.  
 - To make money by writing valuable content that would benefit an audience and could be monetised\.\.\.  
 \.\.\. Or both!  
@@ -20,7 +20,7 @@ I also ran into a number of inspiring blogs about people's personal journey over
 <br><br>
 
 ## What about?  
-
+<br>
 - Stuff you're curious about, maybe even good at, "Passions".  
 - Or content catered to your audience.  
 - ... or both!  
