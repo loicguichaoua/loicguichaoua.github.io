@@ -55,8 +55,8 @@ Note that you can either edit your website on your computer and upload it to you
 ## Bottom line:  
 
 This solution ends up being quite cheap 💸  
-Domain name (Google Domains): 12€ per year  
-Hosting (Github Pages): 0€  
-CMS (Jekyll): 0€  
+- Domain name (Google Domains): 12€ per year  
+- Hosting (Github Pages): 0€  
+- CMS (Jekyll): 0€  
 
 and it's easy to maintain! 👍
