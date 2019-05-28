@@ -47,6 +47,10 @@ How: You can either (1) use a Content Management System or (2) build it yourself
 **Step #3**: Find a server to host your blog files  
 Tools: [`Github Pages`](https://pages.github.com) (free)  
 How: Most websites that sell domain names also offer hosting services. In my case, Jekyll offered free hosting on Github Pages, so I went for it. Note that you can even try Jekyll locally on your computer to see what your blog would look like (even if you haven't bought a domain or do not have a server yet).  
+
+**Step #4**: Upload your first post!  
+Tools: [`Markdown tutorial`](https://www.markdowntutorial.com/)  
+How: Uploading a post using Jekyll is very easy, you just need to create a new "myarticle.markdown" file and add it to the right folder in your website directory once you're done, that's it! Your new article will then be added to your blog and visible in your feed.  
 <br><br>
 
 ## Bottom line:  
