@@ -2,10 +2,13 @@
 description: "Let's talk about Electro music. And Web Scraping."
 comments: true
 ---    
+<br>
+<br>
 <center>
-    <img src="{{ site.baseurl }}/images/ElectroPhilarmoniedeParis2019-1.jpg" alt="Smiley face" height="auto" width="150">
+    <img src="{{ site.baseurl }}/images/ElectroPhilarmoniedeParis2019-1.jpg" alt="Expo Electro at the Philarmonie de Paris, summer 2019" height="auto" width="150">
 </center>  
-
+<br>
+<br>
 ## Why learn web scraping?  
 
 I love electro & house music, and have always wanted to have all the upcoming music festivals (worldwide) effortlessly show up in my Google Calendar, so that I could simply pick my next travel destination according to where the best events would be taking place.  
