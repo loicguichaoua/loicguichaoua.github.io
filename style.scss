@@ -242,9 +242,10 @@ blockquote {
 }
 
 // Footnote
-footnote {
+span .footnote {
   color = #999;
 }
+
 a.footnote {
   &,
   .post p &,
