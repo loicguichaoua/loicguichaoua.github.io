@@ -59,8 +59,8 @@ How: Most websites that sell domain names also offer hosting services. In my cas
 
 **Step #4**: Upload your first post!  
 Tools: [`Markdown tutorial`](https://www.markdowntutorial.com/), [`Disqus`](https://disqus.com/)  
-How: Uploading a post using Jekyll is very easy, you just need to create a new _article.markdown_ or _article.md_ (same) file and add it to the right folder in your website directory once you're done, that's it! Your new article will then be added to your blog and visible in your feed. You can also make it possible to interact with your readers by enabling Disqus, Google or Facebook comments.  
-Note that you can either edit your website on your computer and upload it to your server, or, if you use my configuration, directly on your Github repository.
+How: Uploading a post using Jekyll is very easy, you just need to create a new _article.markdown_ or _article.md_ (same) file and add it to the right folder in your website directory once you're done writing your article, that's it! Your new article will then be added to your blog and be visible in your feed. Finally, you can also make it possible to interact with your readers by enabling Disqus, Google or Facebook comments.  
+Note that you can either edit your website on your computer and upload it to your server, or, if you use my configuration, edit it directly on your Github repository.
 <br><br>
 
 ## Bottom line:  
