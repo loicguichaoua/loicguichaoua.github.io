@@ -25,6 +25,7 @@ Think of it as the launching ceremony of a ship: you've worked hard to build som
 <br>
 <center>
     <img src="https://media.giphy.com/media/XrOxNVQeqAKJy/giphy.gif" alt="Ship launch"/>
+    Successful launch of a blog post 🍾
 </center>  
 <br>
 
