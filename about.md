@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm a 28 years-old tech-savvy financial analyst, music enthusiast and am fascinated by China.  
+I'm 28, French 🇫🇷, and I've been working remotely since 2016. 👨‍💻🏝  
 
-I created this blog to write about my side-projects.  
-
-My goal is one article per month in 2019, starting in April!
+I created this blog to write about my side-projects & share thoughts on a number of topics. My goal is to publish one article per month in 2019, starting in April!
