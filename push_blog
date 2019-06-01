@@ -4,6 +4,8 @@
 ########################################
 # Pushes updates to github repository
 ########################################
+# git config --global user.email "l.guichaoua@gmail.com"
+# git config --global user.name "Loic"
 
 
 # (1) prompt user, and read command line argument
