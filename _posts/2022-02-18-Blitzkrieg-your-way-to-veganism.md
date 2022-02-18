@@ -11,8 +11,7 @@ comments: true
 
 <br>
 
-You're probably here because you had a talk with a friend about the impact of the food you eat.  
-And either the ethics, environmental or health aspect of what your friend said left you wanting to know more.  
+You're probably here because you had a talk with a friend about the impact of the food you eat, and either the ethics, environmental or health aspect of what your friend said left you wanting to know more.  
 
 Here's a straightforward list of documentaries that you can watch to get a hold of what's really going on behind your plate.  
 
