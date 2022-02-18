@@ -23,7 +23,7 @@ To gain a basic understanding of what's going on:
 
 To gain an in-depth understanding (#nofilter):
 1. Dominion <a href="https://youtu.be/LQRAfJyEsko" target="_blank">Youtube (EN)</a> or Earthlings <a href="https://youtu.be/8gqwpfEcBjI" target="_blank">Youtube (EN)</a>
-2. The Damned: Stories of Slaughterhouse Workers<a href="https://youtu.be/Trge8blO_hI" target="_blank">Youtube (FR)</a> 
+2. The Damned: Stories of Slaughterhouse Workers <a href="https://youtu.be/Trge8blO_hI" target="_blank">Youtube (FR)</a> 
 
 
 Other easy to watch documentaries:
