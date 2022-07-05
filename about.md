@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Blog about my side-projects & share thoughts on a number of topics.
+Blog about my side-projects along with a few thoughts on a number of topics.
