@@ -8,7 +8,7 @@ media:
     label: Images
     input: images
     output: /images
-    extensions: [ png, webp ]
+    extensions: [ png, webp, gif ]
 content:
   - name: posts
     label: Posts
