@@ -42,22 +42,10 @@ content:
       - { name: published, label: Published, type: boolean, default: true }
       - { name: description, label: Description, type: string, options: { maxlength: 160 } }
       - { name: body, label: Body, type: rich-text }
-  - name: header
-    label: Header
-    type: file
-    path: _includes/head.html
-    fields:
-      - { name: body, label: Body, type: code, options: { format: html } }
   - name: navigation
     label: Navigation
     type: file
     path: _includes/nav.html
-    fields:
-      - { name: body, label: Body, type: code, options: { format: html } }
-  - name: footer
-    label: Footer
-    type: file
-    path: _includes/footer.html
     fields:
       - { name: body, label: Body, type: code, options: { format: html } }
   - name: config
