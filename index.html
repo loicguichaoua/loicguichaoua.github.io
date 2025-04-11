@@ -7,6 +7,9 @@ title: Cohérence Citoyenne
 
 {% else %}
 
+  <script> 
+    console.log("site: ", {% site %});
+  </script>
   <div class="posts">
     {% for post in paginator.posts %}
       <article class="post">
