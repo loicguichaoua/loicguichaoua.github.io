@@ -14,7 +14,7 @@ content:
     fields:
       - { name: layout, type: string, hidden: true, default: default }
       - { name: title, label: Title, type: string }
-      - { name: description, label: Description, type: string, maxlength: 160 }
+      - { name: description, label: Description, type: string, options: { maxlength: 160 } }
   - name: posts
     label: Posts
     type: collection
@@ -26,7 +26,7 @@ content:
       - { name: layout, type: string, hidden: true, default: post }
       - { name: date, label: Date, type: date }
       - { name: published, label: Published, type: boolean, default: true }
-      - { name: description, label: Description, type: string, maxlength: 160 }
+      - { name: description, label: Description, type: string, options { maxlength: 160 } }
       - { name: body, label: Body, type: rich-text }
   - name: config
     label: Jekyll config
