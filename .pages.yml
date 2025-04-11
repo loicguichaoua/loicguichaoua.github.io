@@ -5,6 +5,18 @@ media:
     output: /images
     extensions: [ png, webp, gif ]
 content:
+  - name: header
+    label: Header
+    type: file
+    path: _includes/head.html
+    fields:
+      - { name: body, label: Body, type: code, options: { format: html } }
+  - name: footer
+    label: Footer
+    type: file
+    path: _includes/footer.html
+    fields:
+      - { name: body, label: Body, type: code, options: { format: html } }
   - name: home
     label: Home
     type: file
