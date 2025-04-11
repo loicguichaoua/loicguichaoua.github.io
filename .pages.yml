@@ -47,6 +47,7 @@ content:
     type: file
     path: _includes/nav.html
     fields:
+      - { name: title, label: Title, type: string }
       - { name: body, label: Body, type: code, options: { format: html } }
   - name: config
     label: website config
