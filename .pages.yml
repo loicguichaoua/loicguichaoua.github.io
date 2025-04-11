@@ -8,7 +8,7 @@ content:
   - name: home
     label: Home
     type: file
-    path: /index.html
+    path: index.html
     view:
       fields: [ title ]
   - name: posts
