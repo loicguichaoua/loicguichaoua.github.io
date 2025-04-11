@@ -9,6 +9,8 @@ content:
     label: Home
     type: file
     path: index.html
+    view:
+      fields: [ title ]
   - name: posts
     label: Posts
     type: collection
