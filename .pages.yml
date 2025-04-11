@@ -1,4 +1,14 @@
-media: media
+media:
+  - name: files
+    label: Files
+    input: files/documents
+    output: /files/documents
+    categories: [ document ]
+  - label: images
+    label: Images
+    input: images
+    output: /images
+    extensions: [ png, webp ]
 content:
   - name: posts
     label: Posts
