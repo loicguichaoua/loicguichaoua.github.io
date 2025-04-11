@@ -1,17 +1,12 @@
 ---
 published: true
-date: 2022-02-18
+date: 2019-04-11
 title: How to get a simple blog up and running
 ---
-  
-  
-
 <img class="img-post" src="{{ site.baseurl }}/images/blog-howto.png" alt="Blog as of April 2019" height="auto" width="400">
 
-  
-  
 \>A blog (initially "weblog") is a discussion or informational website published on the World Wide Web consisting of discrete, often informal diary-style text entries (posts).  
-\## Why a blog? \- \*\*To document your journey\*\* ✏️📕  toward learning a new skill, undertaking a challenge, launching your company, getting to know yourself\\.\\.\\. - \*\*To make money\*\* 💸🛩  by writing valuable content that would benefit an audience and could be monetised\\.\\.\\. - \\.\\.\\. \*\*or both!\*\*
+\## Why a blog? - \*\*To document your journey\*\* ✏️📕  toward learning a new skill, undertaking a challenge, launching your company, getting to know yourself\\.\\.\\. - \*\*To make money\*\* 💸🛩  by writing valuable content that would benefit an audience and could be monetised\\.\\.\\. - \\.\\.\\. \*\*or both!\*\*
 
 In my case it is a great way to motivate myself to finish my side-projects by "officially" bringing them to a close with a dedicated blog post.
 
@@ -19,23 +14,15 @@ Think of each new blog post as the launching ceremony of a ship: you've worked h
 
 People attending the ceremony might learn a few things and walk away inspired. Some might even decide to build their own aircraft carrier. Others might decide to [throw an Electro music party on the deck of the USS Intrepid](https://www.facebook.com/events/2216781245302819/). Who knows.
 
-  
-
 ![Ship launch](https://media.giphy.com/media/XrOxNVQeqAKJy/giphy.gif) Successful launch of a blog post 🍾
 
-  
-
-I also ran into a number of inspiring blogs about people's personal journey over many years and it gave me so much value and motivation that I'm sure sharing this type of content can bring value to the table.  
-  
-  
+I also ran into a number of inspiring blogs about people's personal journey over many years and it gave me so much value and motivation that I'm sure sharing this type of content can bring value to the table.
 
 ## What about?
 
 \- Stuff you're curious about, maybe even good at, "Passions". - Or content catered to your audience. - \\.\\.\\. or both!
 
-In the case of this blog, several topics should show up in the blog feed, such as (1) Code, (2) Lifestyle, (3) Europe & China. More about my interests in another article.  
-  
-  
+In the case of this blog, several topics should show up in the blog feed, such as (1) Code, (2) Lifestyle, (3) Europe & China. More about my interests in another article.
 
 ## How To:
 
@@ -54,8 +41,7 @@ How: Most websites that sell domain names also offer hosting services. In my cas
 **Step #4**: Upload your first post!  
 Tools: [`Markdown tutorial`](https://www.markdowntutorial.com/), [`Disqus`](https://disqus.com/)  
 How: Uploading a post using Jekyll is very easy, you just need to create a new _article.markdown_ or _article.md_ (same) file and add it to the right folder in your website directory once you're done writing your article, that's it! Your new article will then be added to your blog and be visible in your feed. Finally, you can also make it possible to interact with your readers by enabling Disqus, Google or Facebook comments.  
-Note that you can either edit your website on your computer and upload it to your server, or, if you use my configuration, edit it directly on your Github repository.  
-  
+Note that you can either edit your website on your computer and upload it to your server, or, if you use my configuration, edit it directly on your Github repository.
 
 ## Bottom line:
 
