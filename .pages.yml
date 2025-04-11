@@ -15,6 +15,19 @@ content:
       - { name: layout, type: string, hidden: true, default: default }
       - { name: title, label: Title, type: string }
       - { name: description, label: Description, type: string, options: { maxlength: 160 } }
+      - name: features
+        label: Features
+        type: object
+        fields: 
+          - { name: title, label: Title, type: string }
+          - name: entries
+            label: Entries
+            type: object
+            list: true
+            fields:
+              - { name: title, label: Title, type: string }
+              - { name: description, label: Description, type: string }
+              - { name: icon, label: Icon, type: string }
   - name: posts
     label: Posts
     type: collection
