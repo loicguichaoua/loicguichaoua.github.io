@@ -5,6 +5,10 @@ media:
     output: /images
     extensions: [ png, webp, gif ]
 content:
+  - name: home
+    label: Home
+    type: file
+    path: index.html
   - name: posts
     label: Posts
     type: collection
@@ -36,7 +40,7 @@ content:
       - name: description
         label: Website description
         type: string
-        description: Will be provused for any page with no description.
+        description: Will be used for any page with no description.
       - name: url
         label: Website URL
         type: string
