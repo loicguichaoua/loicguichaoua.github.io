@@ -12,7 +12,6 @@ content:
     view:
       fields: [ title ]
     fields:
-      - { name: layout, type: string, hidden: true, default: default }
       - { name: title, label: Title, type: string }
       - { name: description, label: Description, type: string, options: { maxlength: 160 } }
       - name: features
