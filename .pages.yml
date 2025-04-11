@@ -18,6 +18,7 @@ content:
     view:
       fields: [ title, published, date ]
     fields:
+      - { name: title, label: Title, type: string }
       - name: published
         label: Published
         type: boolean
@@ -25,9 +26,6 @@ content:
       - name: date
         label: Date
         type: date
-      - name: title
-        label: Title
-        type: string
       - name: body
         label: Body
         type: rich-text
