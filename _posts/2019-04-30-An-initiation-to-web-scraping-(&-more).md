@@ -1,4 +1,5 @@
 ---
+title: "An initiation to web scraping (& more)"
 description: "Let's talk about Electro music. And Web Scraping."
 comments: true
 ---    
