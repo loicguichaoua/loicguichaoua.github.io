@@ -22,13 +22,11 @@ content:
       - { name: layout, type: string, hidden: true, default: post }
       - { name: date, label: Date, type: date }
       - { name: description, label: Description, type: string, options: { maxlength: 160 } }
+      - { name: body, label: Body, type: rich-text }
       - name: published
         label: Published
         type: boolean
         default: true
-      - name: body
-        label: Body
-        type: rich-text
   - name: config
     label: Jekyll config
     path: _config.yml
