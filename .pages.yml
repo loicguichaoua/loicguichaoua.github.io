@@ -1,9 +1,4 @@
 media:
-  - name: files
-    label: Files
-    input: files/documents
-    output: /files/documents
-    categories: [ document ]
   - name: images
     label: Images
     input: images
