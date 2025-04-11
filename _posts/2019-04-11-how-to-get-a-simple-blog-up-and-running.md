@@ -1,5 +1,5 @@
 ---
-title="how to get a simple blog up and running"
+title: "how to get a simple blog up and running"
 description: "A brief explanation of how I set up this blog."
 comments: true
 ---
