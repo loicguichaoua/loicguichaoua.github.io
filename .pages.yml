@@ -48,6 +48,12 @@ content:
     path: _includes/head.html
     fields:
       - { name: body, label: Body, type: code, options: { format: html } }
+  - name: navigation
+    label: Navigation
+    type: file
+    path: _includes/nav.html
+    fields:
+      - { name: body, label: Body, type: code, options: { format: html } }
   - name: footer
     label: Footer
     type: file
