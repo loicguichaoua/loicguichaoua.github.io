@@ -43,7 +43,7 @@ content:
       - { name: description, label: Description, type: string, options: { maxlength: 160 } }
       - { name: body, label: Body, type: rich-text }
   - name: config
-    label: Jekyll config
+    label: website config
     path: _config.yml
     type: file
     fields:
@@ -58,7 +58,7 @@ content:
         label: Website URL
         type: string
         pattern: ^(https?:\/\/)?(www\.)?[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}(\/[^\s]*)?$
-      - name: cover
-        label: Preview image
+      - name: avatar
+        label: Avatar
         type: image
         description: Image used in the social preview on social networks (e.g. Facebook, Twitter...)
