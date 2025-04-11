@@ -21,6 +21,7 @@ content:
       - { name: title, label: Title, type: string }
       - { name: layout, type: string, hidden: true, default: post }
       - { name: date, label: Date, type: date }
+      - { name: description, label: Description, type: string, options: { maxlength: 160 } }
       - name: published
         label: Published
         type: boolean
