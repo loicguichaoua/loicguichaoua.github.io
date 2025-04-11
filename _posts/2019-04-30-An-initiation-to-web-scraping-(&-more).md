@@ -1,32 +1,32 @@
 ---
-title: "An initiation to web scraping (& more)"
-description: "Let's talk about Electro music. And Web Scraping."
-comments: true
----    
-<br><br>
-<center>
-    <img src="{{ site.baseurl }}/images/ElectroPhilarmoniedeParis2019-1.jpg" alt="Expo Electro at the Philarmonie de Paris, summer 2019" height="auto" width="150">
-</center>  
-<br>
->House music was born in Chicago during the early 1980's, more precisely in the "Warehouse", the club where DJ Frankie Knuckles invented the style.  
+published: true
+date: 2019-04-30
+title: An initiation to web scraping (& more)
+---
+  
+  
 
-<br>
-## Why learn web scraping?  
+<img src="{{ site.baseurl }}/images/ElectroPhilarmoniedeParis2019-1.jpg" alt="Expo Electro at the Philarmonie de Paris, summer 2019" height="auto" width="150">
 
-I love electro & house music, and have always wanted to have all the upcoming music festivals (worldwide) effortlessly show up in my Google Calendar, so that I could simply pick my next travel destination according to where the best events would be taking place.  
+  
+\>House music was born in Chicago during the early 1980's, more precisely in the "Warehouse", the club where DJ Frankie Knuckles invented the style.  
+\## Why learn web scraping?
 
-The thing is, since Google's Public Calendars were depleted[<a href="#1dn" class="footnote" id="1up"><sup>1</sup></a>](#1dn), I haven't been able to find a practical solution that would allow me to easily (automatically) add (hundreds to thousands of) events to my calendar.  
+I love electro & house music, and have always wanted to have all the upcoming music festivals (worldwide) effortlessly show up in my Google Calendar, so that I could simply pick my next travel destination according to where the best events would be taking place.
 
-Say, if I wanted to add all the upcoming electro festivals worldwide (hundreds) already listed on my favorite website, I would have to do it manually, and this would take hours if not days.  
+The thing is, since Google's Public Calendars were depleted[](#1dn)[1](#1dn), I haven't been able to find a practical solution that would allow me to easily (automatically) add (hundreds to thousands of) events to my calendar.
+
+Say, if I wanted to add all the upcoming electro festivals worldwide (hundreds) already listed on my favorite website, I would have to do it manually, and this would take hours if not days.
 
 I had heard about scraping in the past, which allows to quickly extract data from websites, and I knew I could somehow use Google Calendar's API to add events to my calendar using code. That's all I needed to get started.  
-<br><br>
+  
+  
 
-## How I went about it:    
+## How I went about it:
 
 **Step #1:** finding reliable, well maintained Events listings 🌍⬅💻🧐  
 Tools: [`Google search`](https://www.google.com/), friends' recommendations.  
-How: I made a shortlist of websites which were fairly important, regularly maintained, with the most events listed and with the most detailed information per event. I ended up choosing one single website.    
+How: I made a shortlist of websites which were fairly important, regularly maintained, with the most events listed and with the most detailed information per event. I ended up choosing one single website.
 
 **Step #2:** (_respectfully_) scraping the Events listing 🌍➡💻🤔  
 Tools: [`Python`](https://www.python.org/), [`Scrapy`](https://scrapy.org/), [`Virtual Environments`](https://www.pythonforbeginners.com/basics/how-to-use-python-virtualenv/).  
@@ -36,15 +36,11 @@ Note that by respectfully, I mean that some websites do not wish to be scraped, 
 **Step #3:** Adding events from a CSV file to my Google Calendar 📅⬅💻😁  
 Tools: [`Python`](https://www.python.org/), [`Pandas`](https://pandas.pydata.org/), [`Google Calendar API`](https://developers.google.com/calendar/).  
 How: I wrote another Python script, this time to extract the data from the csv file and upload it to my Google Calendar using its API (I find the tutorial videos very handy). I also added code to update existing events every time I run the program. Pandas, a Python data analysis library, was extremely convenient to structure and play with the data.  
-<br><br>
-<center>
-    <figure class="video_container">
-      <video allowfullscreen muted autoplay loop poster="{{ site.baseurl }}/images/festoches.png" width="150">
-        <source src="{{ site.baseurl }}/images/festoches.m4v" type="video/mp4">
-      </video>
-    </figure>
-</center>
-<br><br>
+  
+  
+
+  
+  
 
 ## Bottom line:
 
@@ -54,8 +50,6 @@ I now have a clear view of all upcoming festivals and sure am going to pick my n
 
 I'll see how handy this Calendar proves to be, in the meantime I have learnt a lot about Python, scraping and APIs.
 
-****
+* * *
 
-<footnote>
-    <a href="#1up" class="footnote" id="1dn">1.</a> Google public calendars: somewhere around 2009, unmaintained public user calendars actually brought Google more blame than praise from its users so Google decided to end the project.
-</footnote>
+[1.](#1up) Google public calendars: somewhere around 2009, unmaintained public user calendars actually brought Google more blame than praise from its users so Google decided to end the project.
