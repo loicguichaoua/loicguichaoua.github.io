@@ -2,7 +2,7 @@
 title: À propos
 layout: default
 ---
-{{ page.title }}
+## {{ page.title }}
 
 Incarner pleinement ses valeurs est un luxe : nombreux sont celleux qui ont des valeurs humanistes fortes, mais encore faut-il avoir le temps de mettre en place les changements nécessaires dans notre quotidien.
 
