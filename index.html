@@ -13,10 +13,6 @@ layout: default
     
     {% for post in paginator.posts %}
       <article class="post-thumbnail">
-        <br>
-        <span class="date">
-          {{ post.date | date: "%Y-%m-%d" }}
-        </span>
         <h1>
           <a href="{{ site.baseurl }}{{ post.url }}">ABC</a>
         </h1>
