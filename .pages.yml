@@ -4,6 +4,11 @@ media:
     input: images
     output: /images
     extensions: [ png, webp, gif ]
+  - name: components
+    label: Components
+    input: _includes
+    output: /_includes
+    extensions: [ html ]
 content:
   - name: home
     label: Home
@@ -42,12 +47,6 @@ content:
       - { name: published, label: Published, type: boolean, default: true }
       - { name: description, label: Description, type: string, options: { maxlength: 160 } }
       - { name: body, label: Body, type: rich-text }
-  - name: config2
-    label: Config2
-    type: collection
-    path: '_includes'
-    view: 
-      fields: [ title ]
   - name: config
     label: _config.yml
     path: _config.yml
