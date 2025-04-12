@@ -44,8 +44,6 @@ content:
     label: _config.yml
     path: _config.yml
     type: file
-    fields:
-      - { name: title, label: Title, type: string }
   - name: head
     label: Header
     path: _includes/head.html
