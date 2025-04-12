@@ -428,6 +428,24 @@ nav {
   }
 }
 
+// Posts - Thumbnails
+
+.posts-thumbnails {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: baseline; /* = align-self */
+  align-content: flex-start;
+}
+
+.post-thumbnail {
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: auto;
+  align-self: center; /* = .container's align-items */
+}
+
 // Posts
 .posts > .post {
   padding-bottom: 2em;
