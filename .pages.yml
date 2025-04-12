@@ -27,6 +27,15 @@ content:
               - { name: description, label: Description, type: string }
               - { name: icon, label: Icon, type: string }
       - { name: body, label: Body, type: code, options: { format: html } }
+  - name: about
+    label: À propos
+    type: file
+    path: about.html
+    fields:
+      - { name: title, label: Title, type: string }
+      - { name: description, label: Description, type: string, options: { maxlength: 160 } }
+      - { name: layout, type: string, hidden: true, default: default }
+      - { name: body, label: Body, type: code, options: { format: html } }
   - name: posts
     label: Posts
     type: collection
