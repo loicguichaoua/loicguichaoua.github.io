@@ -1,14 +1,11 @@
 ---
-published: true
-date: 2019-04-30
 title: An initiation to web scraping (& more)
+layout: post
+date: 2019-04-30
+published: false
 ---
-  
-  
-
 <img src="{{ site.baseurl }}/images/ElectroPhilarmoniedeParis2019-1.jpg" alt="Expo Electro at the Philarmonie de Paris, summer 2019" height="auto" width="150">
 
-  
 \>House music was born in Chicago during the early 1980's, more precisely in the "Warehouse", the club where DJ Frankie Knuckles invented the style.  
 \## Why learn web scraping?
 
@@ -18,9 +15,7 @@ The thing is, since Google's Public Calendars were depleted[](#1dn)[1](#1dn), I 
 
 Say, if I wanted to add all the upcoming electro festivals worldwide (hundreds) already listed on my favorite website, I would have to do it manually, and this would take hours if not days.
 
-I had heard about scraping in the past, which allows to quickly extract data from websites, and I knew I could somehow use Google Calendar's API to add events to my calendar using code. That's all I needed to get started.  
-  
-  
+I had heard about scraping in the past, which allows to quickly extract data from websites, and I knew I could somehow use Google Calendar's API to add events to my calendar using code. That's all I needed to get started.
 
 ## How I went about it:
 
@@ -35,12 +30,7 @@ Note that by respectfully, I mean that some websites do not wish to be scraped, 
 
 **Step #3:** Adding events from a CSV file to my Google Calendar 📅⬅💻😁  
 Tools: [`Python`](https://www.python.org/), [`Pandas`](https://pandas.pydata.org/), [`Google Calendar API`](https://developers.google.com/calendar/).  
-How: I wrote another Python script, this time to extract the data from the csv file and upload it to my Google Calendar using its API (I find the tutorial videos very handy). I also added code to update existing events every time I run the program. Pandas, a Python data analysis library, was extremely convenient to structure and play with the data.  
-  
-  
-
-  
-  
+How: I wrote another Python script, this time to extract the data from the csv file and upload it to my Google Calendar using its API (I find the tutorial videos very handy). I also added code to update existing events every time I run the program. Pandas, a Python data analysis library, was extremely convenient to structure and play with the data.
 
 ## Bottom line:
 
