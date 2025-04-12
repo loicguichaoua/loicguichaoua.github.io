@@ -12,7 +12,7 @@ image: /images/food.png
     
 *   Si le monde devenait végane, cela libérerait [75% de toutes les terres agricoles](https://ourworldindata.org/land-use-diets) dans le monde qui pourraient être ré-ensauvagées et capturer des quantités massives de CO2.
     
-*   Un seul nutriment n'est pas disponible dans un régime 100% végétal : la vitamine B12.
+*   Un seul nutriment n'est pas disponible dans un régime 100% végétal : la vitamine B12 (lien d'achat de compléments ci-dessous)
     
 *   La population de véganes dans le monde est estimée à [88 millions de personnes dont 67% de femmes](https://worldanimalfoundation.org/advocate/how-many-vegans-are-in-the-world/).
     
