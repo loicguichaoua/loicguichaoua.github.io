@@ -2,6 +2,8 @@
 title: Véganisme
 layout: post
 date: 2025-04-12
+tags:
+  - Vegan
 published: true
 description: description
 image: /images/food.png
@@ -27,7 +29,6 @@ image: /images/food.png
 ## Sur le long terme
 
 *   consulter : [Carte des professionnels de santé ayant une expertise en alimentation végétale (ONAV)](https://lonav.fr/trouver-un-e-pro-de-sante/)
-    
 
 ## Documentaires pour s'informer
 
