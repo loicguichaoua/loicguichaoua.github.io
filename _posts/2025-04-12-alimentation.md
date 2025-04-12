@@ -4,5 +4,5 @@ layout: post
 date: 2025-04-12
 published: true
 description: description
-image: /images/rocks.png
+image: /images/food.png
 ---
