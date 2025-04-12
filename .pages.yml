@@ -50,6 +50,10 @@ content:
     label: Header
     path: _includes/head.html
     type: file
+  - name: navigation
+    label: Navigation
+    path: _includes/nav.html
+    type: file
   - name: footer
     label: Footer
     path: _includes/footer.html
