@@ -42,8 +42,8 @@ content:
       - { name: published, label: Published, type: boolean, default: true }
       - { name: description, label: Description, type: string, options: { maxlength: 160 } }
       - { name: body, label: Body, type: rich-text }
-  - name: config
-    label: Config
+  - name: config2
+    label: Config2
     type: collection
     path: '_includes'
     view: 
