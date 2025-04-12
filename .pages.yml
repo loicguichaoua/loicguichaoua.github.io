@@ -57,7 +57,7 @@ content:
         type: select
         options:
           multiple: true
-          values: [ Vegan, Zéro-déchet, Seconde-main, Réparation, Transport ]
+          values: [ Vegan, Zéro-déchet, Seconde-main, Réparation, Transport, Collectif ]
       - { name: published, label: Published, type: boolean, default: true }
       - { name: description, label: Description, type: string, options: { maxlength: 160 } }
       - { name: image, label: Image, type: image }
