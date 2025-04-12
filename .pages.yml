@@ -51,6 +51,6 @@ content:
     path: _includes/head.html
     type: file
   - name: footer
-    label: Header
+    label: Footer
     path: _includes/footer.html
     type: file
