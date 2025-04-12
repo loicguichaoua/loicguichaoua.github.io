@@ -46,11 +46,11 @@ content:
     label: _config.yml
     path: _config.yml
     type: file
-  - name: components
-    label: Components
-    type: collection
-    path: '_includes'
-    view:
-      fields: [ title ]
-    fields:
-      - { name: body, label: Body, type: code, options: { format: html } }
+  - name: head
+    label: Header
+    path: _includes/head.html
+    type: file
+  - name: footer
+    label: Header
+    path: _includes/footer.html
+    type: file
