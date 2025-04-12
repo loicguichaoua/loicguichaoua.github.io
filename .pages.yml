@@ -58,6 +58,4 @@ content:
         sort: title
         order: asc
     fields:
-      - { name: title, label: Title, type: string }
-      - { name: description, label: Description, type: string, options: { maxlength: 160 } }
       - { name: body, label: Body, type: code, options: { format: html } }
