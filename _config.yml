@@ -2,8 +2,8 @@
 # This file contains configuration flags to customize your site
 #
 
-# Name of your site (displayed in the header)
-name: Loïc Guichaoua
+# Title of your site (displayed in the header)
+title: Loïc Guichaoua
 
 # Short bio or description (displayed in the header)
 description: Believe you can and you’re halfway there.
