@@ -1,5 +1,5 @@
 ---
-title: Zéro-déchêts
+title: Zéro-déchêt
 layout: post
 date: 2025-04-12
 published: true
