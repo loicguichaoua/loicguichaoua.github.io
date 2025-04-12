@@ -43,23 +43,5 @@ content:
       - { name: description, label: Description, type: string, options: { maxlength: 160 } }
       - { name: body, label: Body, type: rich-text }
   - name: config
-    label: website config
-    path: _config2.yml
+    path: _config.yml
     type: file
-    fields:
-      - name: title
-        label: Website title
-        type: string
-      - name: description
-        label: Website description
-        type: string
-        description: Will be used for any page with no description.
-      - name: url
-        label: Website URL
-        type: string
-        pattern: ^(https?:\/\/)?(www\.)?[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}(\/[^\s]*)?$
-      - name: avatar
-        label: Avatar
-        type: image
-        description: Image used in the social preview on social networks (e.g. Facebook, Twitter...)
-      - { name: body, label: Body, type: code, options: { format: html } }
