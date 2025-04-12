@@ -8,7 +8,9 @@ image: /images/food.png
 ---
 ## L'essentiel
 
-*   Les produits animaliers (viandes, oeufs, laitages, miel...) représentent 15% des émissions de CO2 mondiales.
+*   Les produits animaliers (viandes, oeufs, laitages, miel...) représentent à eux seuls ~[14.5% des émissions de CO2 mondiales](https://www.researchgate.net/publication/289509969_Tackling_climate_change_through_livestock_A_global_assessment_of_emissions_and_mitigation_opportunities).
+    
+*   Si le monde devenait végane, cela libérerait [75% de toutes les terres agricoles](https://ourworldindata.org/land-use-diets) dans le monde
     
 *   Un seul nutriment n'est pas disponible dans un régime 100% végétal : la vitamine B12.
     
@@ -19,7 +21,7 @@ image: /images/food.png
 
 *   savoir composer des repas équilibrés et où trouver ses nutriments (protéines, fer, calcium, vitamines, graisses...) : [https://vegan-pratique.fr/conseils-nutrition-vegetalienne/](https://vegan-pratique.fr/conseils-nutrition-vegetalienne/)
     
-*   commander de la vitamine B12 (2 x 1000mg / semaine) : [https://shop.federationvegane.fr/complement-de-b12-vegane/43-veganicity-1000.html](https://shop.federationvegane.fr/complement-de-b12-vegane/43-veganicity-1000.html)
+*   commander de la vitamine B12 (2 x 1000mg / semaine par adulte) : [https://shop.federationvegane.fr/complement-de-b12-vegane/43-veganicity-1000.html](https://shop.federationvegane.fr/complement-de-b12-vegane/43-veganicity-1000.html)
     
 
 ## Sur le long terme
