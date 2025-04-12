@@ -1,7 +1,8 @@
 ---
-published: true
-date: 2019-04-11
 title: How to get a simple blog up and running
+layout: post
+date: 2019-04-11
+published: false
 ---
 <img class="img-post" src="{{ site.baseurl }}/images/blog-howto.png" alt="Blog as of April 2019" height="auto" width="400">
 
