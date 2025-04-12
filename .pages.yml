@@ -5,6 +5,21 @@ media:
     output: /images
     extensions: [ png, webp, gif ]
 content:
+  - name: components
+    label: Components
+    type: collection
+    path: _includes
+    view:
+      fields: [ title, order ]
+      primary: title
+      sort: [ order, title ]
+      default:
+        sort: order
+        order: asc
+    fields:
+      - { name: title, label: Title, type: string }
+      - { name: description, label: Description, type: string, options: { maxlength: 160 } }
+      - { name: body, label: Body, type: code, options: { format: html } }
   - name: home
     label: Home
     type: file
