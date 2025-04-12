@@ -447,6 +447,7 @@ nav {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
   /* item */
   flex-grow: 1;
   flex-shrink: 1;
