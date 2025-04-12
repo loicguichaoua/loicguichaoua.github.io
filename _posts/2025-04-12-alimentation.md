@@ -10,7 +10,7 @@ image: /images/food.png
 
 *   Les produits animaliers (viandes, oeufs, laitages, miel...) représentent à eux seuls ~[14.5% des émissions de CO2 mondiales](https://www.researchgate.net/publication/289509969_Tackling_climate_change_through_livestock_A_global_assessment_of_emissions_and_mitigation_opportunities).
     
-*   Si le monde devenait végane, cela libérerait [75% de toutes les terres agricoles](https://ourworldindata.org/land-use-diets) dans le monde
+*   Si le monde devenait végane, cela libérerait [75% de toutes les terres agricoles](https://ourworldindata.org/land-use-diets) dans le monde qui pourraient être ré-ensauvagées et capturer des quantités massives de CO2.
     
 *   Un seul nutriment n'est pas disponible dans un régime 100% végétal : la vitamine B12.
     
