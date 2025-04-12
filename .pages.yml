@@ -9,8 +9,6 @@ content:
     label: Home
     type: file
     path: index.html
-    view:
-      fields: [ title ]
     fields:
       - { name: title, label: Title, type: string }
       - { name: description, label: Description, type: string, options: { maxlength: 160 } }
