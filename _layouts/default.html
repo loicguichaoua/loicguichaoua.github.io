@@ -2,22 +2,22 @@
 <html>
   {% include head.html %}
   <body>
+    <div id="main" role="main" class="container">
+      
       {% include nav.html %}
   
-      <div id="main" role="main" class="container">
         <main>
           {{ content }}
         </main>
-      </div>
   
       <div class="wrapper-footer">
-        <div class="container">
-          <footer class="footer">
-            {% include footer.html %}
-          </footer>
-        </div>
+        <footer class="footer">
+          {% include footer.html %}
+        </footer>
       </div>
   
       {% include analytics.html %}
+      
+    </div>
   </body>
 </html>
