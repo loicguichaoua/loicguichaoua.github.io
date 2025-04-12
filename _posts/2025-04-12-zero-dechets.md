@@ -12,9 +12,9 @@ image: /images/trash-1.png
     
 *   Si en France ce taux est de [27%](https://www.lemonde.fr/en/france/article/2023/06/08/france-lags-far-behind-on-recycling-targets-warns-european-commission_6030550_7.html), cela signifie que pour 3 déchets que vous jetez à la poubelle, 2 finissent soit en décharge à ciel ouvert (dont une partie importante finit directement dans la nature), soit brûlés sur les sites de tri (extrêmement polluant). **Votre poubelle est un mythe.**
     
-*   Un Français produit en moyenne [600kg de déchets par an](https://infos.ademe.fr/magazine-mai-2021/faits-et-chiffres/zoom-sur-le-contenu-de-nos-poubelles/)
+*   Un Français produit en moyenne [**600kg de déchets par an**](https://infos.ademe.fr/magazine-mai-2021/faits-et-chiffres/zoom-sur-le-contenu-de-nos-poubelles/).
     
-*   Les déchets organiques représentent [**40 à 60%**](https://agirpourlatransition.ademe.fr/particuliers/maison/dechets/5-regles-reussir-compost) des ordures ménagères
+*   Les déchets organiques représentent [**40 à 60%**](https://agirpourlatransition.ademe.fr/particuliers/maison/dechets/5-regles-reussir-compost) des ordures ménagères.
     
 
 ## Au quotidien
