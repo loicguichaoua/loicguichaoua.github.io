@@ -39,6 +39,7 @@ content:
       - { name: date, label: Date, type: date }
       - { name: published, label: Published, type: boolean, default: true }
       - { name: description, label: Description, type: string, options: { maxlength: 160 } }
+      - { name: image, label: Image, type: image }
       - { name: body, label: Body, type: rich-text }
   - name: config
     label: _config.yml
