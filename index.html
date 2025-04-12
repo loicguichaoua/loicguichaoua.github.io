@@ -12,6 +12,8 @@ layout: default
   <div class="posts-thumbnails">
     
     {% for post in paginator.posts %}
+
+      {% unless post.tags contains "Article" %}
     
       <a href="{{ site.baseurl }}{{ post.url }}">
         <article class="post-thumbnail">
@@ -23,6 +25,8 @@ layout: default
     
         </article>
       </a>
+    
+      {% endunless %}
     
     {% endfor %}
     
