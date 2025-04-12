@@ -14,7 +14,7 @@ layout: default
     {% for post in paginator.posts %}
       <article class="post-thumbnail">
         <h1>
-          <a href="{{ site.baseurl }}{{ post.url }}">ABC</a>
+          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         </h1>
   
         <div class="meta">
