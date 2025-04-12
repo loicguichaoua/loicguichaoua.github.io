@@ -45,3 +45,7 @@ content:
     label: _config.yml
     path: _config.yml
     type: file
+  - name: styles
+    label: Styles
+    path: style.scss
+    type: file
