@@ -4,11 +4,6 @@ media:
     input: images
     output: /images
     extensions: [ png, webp, gif ]
-  - name: components
-    label: Components
-    input: _includes
-    output: /_includes
-    extensions: [ html ]
 content:
   - name: home
     label: Home
