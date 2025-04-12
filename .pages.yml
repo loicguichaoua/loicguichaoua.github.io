@@ -52,10 +52,5 @@ content:
     path: '_includes'
     view:
       fields: [ title ]
-      primary: title
-      sort: [ title ]
-      default:
-        sort: title
-        order: asc
     fields:
       - { name: body, label: Body, type: code, options: { format: html } }
