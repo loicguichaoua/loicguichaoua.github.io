@@ -51,11 +51,11 @@ content:
     type: collection
     path: _includes
     view:
-      fields: [ title, order ]
+      fields: [ title ]
       primary: title
-      sort: [ order, title ]
+      sort: [ title ]
       default:
-        sort: order
+        sort: title
         order: asc
     fields:
       - { name: title, label: Title, type: string }
