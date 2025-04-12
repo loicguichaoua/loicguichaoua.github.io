@@ -43,5 +43,6 @@ content:
       - { name: description, label: Description, type: string, options: { maxlength: 160 } }
       - { name: body, label: Body, type: rich-text }
   - name: config
+    label: _config.yml
     path: _config.yml
     type: file
