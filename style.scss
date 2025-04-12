@@ -444,6 +444,9 @@ nav {
   flex-shrink: 1;
   flex-basis: auto;
   align-self: center; /* = .container's align-items */
+  height: 50px;
+  border: 2px solid black;
+  border-radius: 10px;
 }
 
 // Posts
