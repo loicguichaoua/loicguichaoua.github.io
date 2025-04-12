@@ -434,9 +434,11 @@ nav {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: center;
-  align-items: baseline; /* = align-self */
-  align-content: flex-start;
+  justify-content: space-between;
+  align-items: stretch; /* = align-self */
+  align-content: stretch;
+  row-gap: 10px;
+  column-gap: 20px;
 }
 
 .post-thumbnail {
