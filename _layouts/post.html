@@ -8,6 +8,15 @@ layout: default
 
   <div class="meta">
     <!-- <span class="date">{{ page.date | date: "%Y-%m-%d" }}</span> -->
+    <ul class="tag">
+       {% for tag in page.tags %}
+       <li>
+         <a href="{{ site.url }}{{ site.baseurl }}/tags#{{ tag }}">
+           {{ tag }}
+         </a>
+       </li>
+       {% endfor %}
+     </ul>
   </div>
 
   <div class="entry">
