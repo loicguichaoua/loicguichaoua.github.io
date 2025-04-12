@@ -62,3 +62,4 @@ content:
         label: Avatar
         type: image
         description: Image used in the social preview on social networks (e.g. Facebook, Twitter...)
+      - { name: body, label: Body, type: code, options: { format: html } }
