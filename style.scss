@@ -29,11 +29,13 @@ html {
 }
 
 body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
   font-family: $base-font;
   color: $base-color;
   line-height: 1.6;
-  min-height: 100vh;
-  margin: 0;
 }
 
 .container {
