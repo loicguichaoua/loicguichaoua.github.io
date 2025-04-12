@@ -35,7 +35,7 @@ content:
       - { name: title, label: Title, type: string }
       - { name: description, label: Description, type: string, options: { maxlength: 160 } }
       - { name: layout, type: string, hidden: true, default: default }
-      - { name: body, label: Body, type: code, options: { format: html } }
+      - { name: body, label: Body, type: rich-text }
   - name: posts
     label: Posts
     type: collection
