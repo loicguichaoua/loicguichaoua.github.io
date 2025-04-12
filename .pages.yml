@@ -3,7 +3,7 @@ media:
     label: Images
     input: images
     output: /images
-    extensions: [ png, webp, gif ]
+    extensions: [ png, webp, gif, jpg ]
 content:
   - name: home
     label: Home
