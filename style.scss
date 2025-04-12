@@ -434,7 +434,7 @@ nav {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: stretch; /* = align-self */
   align-content: stretch;
   row-gap: 20px;
@@ -454,7 +454,7 @@ nav {
   flex-basis: auto;
   align-self: center; /* = .container's align-items */
   min-height: 200px;
-  width: 350px;
+  width: 290px;
   border: 2px solid black;
   border-radius: 10px;
 }
