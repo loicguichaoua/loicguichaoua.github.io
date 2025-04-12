@@ -49,7 +49,7 @@ content:
   - name: components
     label: Components
     type: collection
-    path: _includes
+    path: '_includes'
     view:
       fields: [ title ]
       primary: title
