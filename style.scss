@@ -31,8 +31,10 @@ html {
 body {
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   min-height: 100vh;
   margin: 0;
+  /* text */
   font-family: $base-font;
   color: $base-color;
   line-height: 1.6;
