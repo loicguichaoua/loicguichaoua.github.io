@@ -1,5 +1,5 @@
 ---
-title: Consommation
+title: Seconde-main
 layout: post
 date: 2025-04-12
 published: true
