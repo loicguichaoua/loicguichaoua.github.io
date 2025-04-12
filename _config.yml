@@ -22,7 +22,7 @@ avatar: https://www.loicguichaoua.com/images/loic1.png
 navigation:
   - name: Articles
     url: /
-  - name: About
+  - name: À propos
     url: /about
   # - name: Tags
   #   url: /tags
