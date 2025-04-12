@@ -21,6 +21,10 @@ image: /images/trash-1.png
 
 *   Faire 100% de ses courses en vrac (alimentaires et autre)
     
+    *   utiliser des bocaux en verre pour stocker les aliments dans vos placards
+        
+    *   acheter des tupperwares en verre (Pyrex, made in France et qui durent des décennies) pour stocker vos lots de "batch-cooking"
+        
 *   Trier les déchets organiques dans une benne à compost
     
 *   À mesure que votre poubelle s'allège, regardez ce qui la compose et tentez de trouver des alternatives zéro-déchet
