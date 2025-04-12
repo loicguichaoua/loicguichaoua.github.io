@@ -44,19 +44,3 @@ content:
     label: _config.yml
     path: _config.yml
     type: file
-  - name: head
-    label: Header
-    path: _includes/head.html
-    type: file
-  - name: navigation
-    label: Navigation
-    path: _includes/nav.html
-    type: file
-  - name: footer
-    label: Footer
-    path: _includes/footer.html
-    type: file
-  - name: styles
-    label: Styles
-    path: style.scss
-    type: file
