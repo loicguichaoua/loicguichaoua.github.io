@@ -17,7 +17,7 @@ image: /images/trash-1.png
 *   Les déchets organiques représentent [**40 à 60%**](https://agirpourlatransition.ademe.fr/particuliers/maison/dechets/5-regles-reussir-compost) des ordures ménagères
     
 
-## Comment agir tout de suite
+## Au quotidien
 
 *   Faire 100% de ses courses en vrac (alimentaires et autre)
     
