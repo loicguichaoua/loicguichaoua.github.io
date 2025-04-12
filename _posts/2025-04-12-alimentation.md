@@ -8,7 +8,12 @@ image: /images/food.png
 ---
 ## L'essentiel
 
-Les produits animaliers (viandes, oeufs, laitages, miel...) représentent 15% des émissions de CO2 mondiales. Un seul nutriment n'est pas disponible dans un régime 100% végétal : la vitamine B12. La population de véganes dans le monde est estimée à [88 millions de personnes dont 67% de femmes](https://worldanimalfoundation.org/advocate/how-many-vegans-are-in-the-world/).
+*   Les produits animaliers (viandes, oeufs, laitages, miel...) représentent 15% des émissions de CO2 mondiales.
+    
+*   Un seul nutriment n'est pas disponible dans un régime 100% végétal : la vitamine B12.
+    
+*   La population de véganes dans le monde est estimée à [88 millions de personnes dont 67% de femmes](https://worldanimalfoundation.org/advocate/how-many-vegans-are-in-the-world/).
+    
 
 ## Au quotidien
 
