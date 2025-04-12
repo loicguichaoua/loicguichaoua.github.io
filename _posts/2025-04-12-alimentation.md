@@ -29,13 +29,8 @@ image: /images/food.png
 ## Sur le long terme
 
 *   consulter : [Carte des professionnels de santé ayant une expertise en alimentation végétale (ONAV)](https://lonav.fr/trouver-un-e-pro-de-sante/)
+    
 
 ## Documentaires pour s'informer
 
-*   Cowspiracy
-    
-*   (Seaspiracy)
-    
-*   Earthling
-    
-*   Dominion (très dur)
+*   [article détaillé (en anglais)](https://www.loicguichaoua.com/70-000-000-000/) listant de nombreux documentaires, fictions et livres sur le sujet
