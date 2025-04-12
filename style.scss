@@ -443,8 +443,11 @@ nav {
 }
 
 .post-thumbnail {
+  /* container */
   display: flex;
   justify-content: center;
+  align-items: center;
+  /* item */
   flex-grow: 1;
   flex-shrink: 1;
   flex-basis: auto;
