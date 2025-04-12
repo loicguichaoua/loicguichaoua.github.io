@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About
-permalink: /about/
+title: À propos
+layout: default
 ---
+Incarner pleinement ses valeurs est un luxe : nombreux sont celleux qui ont des valeurs humanistes fortes, mais qui n'ont pas nécessairement le temps de s'atteler à manifester ces valeurs dans leur quotidien (ça demande du temps). 
 
-Blog about my side-projects along with a few thoughts on a number of topics.
+Ce site a pour but de partager des conseils afin de vous permettre
