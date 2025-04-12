@@ -44,7 +44,7 @@ content:
       - { name: body, label: Body, type: rich-text }
   - name: config
     label: website config
-    path: _config.yml
+    path: _config2.yml
     type: file
     fields:
       - name: title
