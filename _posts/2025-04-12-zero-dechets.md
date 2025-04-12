@@ -25,6 +25,6 @@ image: /images/trash-1.png
         
     *   acheter des tupperwares en verre (Pyrex, made in France et qui durent des décennies) pour stocker vos lots de "batch-cooking"
         
-*   Trier les déchets organiques dans une benne à compost
+*   Trier ses déchets organiques dans une benne à compost
     
 *   À mesure que votre poubelle s'allège, regardez ce qui la compose et tentez de trouver des alternatives zéro-déchet
