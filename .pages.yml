@@ -54,20 +54,10 @@ content:
       - { name: date, label: Date, type: date }
       - name: tags
         label: Tags
-        type: object
-        fields: 
-          - name: vegan
-            label: vegan
-            type: string
-          - name: zero-dechet
-            label: zéro-déchet
-            type: string
-          - name: seconde-main
-            label: seconde-main
-            type: string
-          - name: reparation
-            label: réparation
-            type: string
+        type: select
+        options:
+          multiple: true
+          values: [ Vegan, Zéro-déchet, Seconde-main, Réparation, Transport ]
       - { name: published, label: Published, type: boolean, default: true }
       - { name: description, label: Description, type: string, options: { maxlength: 160 } }
       - { name: image, label: Image, type: image }
