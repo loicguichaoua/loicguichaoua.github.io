@@ -351,9 +351,10 @@ img {
 .masthead {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: center;
   align-content: center;
+  flex-wrap: wrap;
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
 
