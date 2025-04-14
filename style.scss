@@ -364,7 +364,7 @@ img {
   }
 }
 
-.site-title { /* remove href effect */
+.site-title > a { /* remove href effect */
     color: inherit;
     text-decoration: inherit;
     &:hover, &:active {
@@ -399,7 +399,7 @@ img {
   }
 }
 
-.site-name > a {
+.site-name {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
