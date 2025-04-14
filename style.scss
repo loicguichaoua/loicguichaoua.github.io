@@ -467,6 +467,11 @@ nav {
   /* text */
 }
 
+.posts-thumbnails > a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
 // Posts
 .posts > .post {
   padding-bottom: 2em;
