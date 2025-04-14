@@ -399,7 +399,7 @@ img {
   }
 }
 
-.site-name {
+.site-name > a {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
