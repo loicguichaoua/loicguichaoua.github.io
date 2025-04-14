@@ -51,6 +51,11 @@ body {
   width: 100%;
 }
 
+::-webkit-scrollbar { /* hide scrollbar: scrollable pages add a scrollbar (chrome) which offsets the whole page */
+    width: 0px;
+    background: transparent; /* make scrollbar transparent */
+}
+
 main {
   flex: 1;
 }
