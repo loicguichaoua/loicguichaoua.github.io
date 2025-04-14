@@ -472,7 +472,10 @@ nav {
   width: 200px;
   border: 2px solid black;
   border-radius: 10px;
-  /* text */
+  /* format */
+  background-image: url(site.avatar);
+  background-position: center;
+  background-size: 200px;
 }
 
 .thumbnail-transparent {
