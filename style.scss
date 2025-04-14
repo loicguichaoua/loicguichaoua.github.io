@@ -473,7 +473,7 @@ nav {
   border: 2px solid black;
   border-radius: 10px;
   /* format */
-  background-image: url(site.avatar);
+  background-image: url({{ site.avatar }});
   background-position: center;
   background-size: 200px;
 }
