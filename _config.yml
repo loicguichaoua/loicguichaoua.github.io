@@ -33,6 +33,11 @@ navigation:
 # Pagination
 paginate: 10
 
+# Collections
+collections:
+  - guides
+collections_dir: /my_collections
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   behance:
