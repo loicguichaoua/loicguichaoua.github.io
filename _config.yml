@@ -20,10 +20,10 @@ avatar: /images/ipcctempdistortedflippedrounded.png
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: Articles
-    url: /articles
   - name: Guides
     url: /
+  - name: Articles
+    url: /articles
   - name: À propos
     url: /about
   # - name: Tags
