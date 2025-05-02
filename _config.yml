@@ -35,6 +35,7 @@ paginate: 10
 
 # Collections
 collections_dir: /my_collections
+
 collections:
   guides:
     output: true
