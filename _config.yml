@@ -35,7 +35,8 @@ paginate: 10
 
 # Collections
 collections:
-  - guides
+  guides:
+    output: true
 collections_dir: /my_collections
 
 # Includes an icon in the footer for each username you enter
