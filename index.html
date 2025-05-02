@@ -2,6 +2,7 @@
 title: Cohérence Citoyenne
 description: description page d'accueil
 layout: default
+paginate: 1000
 ---
 {% if site.posts.size == 0 %}
 
@@ -35,6 +36,7 @@ layout: default
   </div>
 
 
+<!--
   <div class="posts">
     {% for post in paginator.posts %}
 
@@ -71,7 +73,7 @@ layout: default
     {% endfor %}
     
   </div>
-
+-->
 
   <div class="pagination">
     {% if paginator.previous_page %}
