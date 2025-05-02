@@ -13,11 +13,11 @@ layout: default
     
     {% for guide in site.guides %}
 
-      <a href="{{ site.baseurl }}{{ post.url }}">
+      <a href="{{ site.baseurl }}{{ guide.url }}">
         <article class="post-thumbnail">
 
           <div class="thumbnail-transparent">
-            <img src="{{ post.image }}" width="50";>
+            <img src="{{ guide.image }}" width="50";>
             <h2>
               {{ guide.title }}
             </h2>
