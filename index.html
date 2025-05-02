@@ -2,7 +2,6 @@
 title: Cohérence Citoyenne
 description: description page d'accueil
 layout: default
-paginate: 1000
 ---
 {% if site.posts.size == 0 %}
 
@@ -12,7 +11,7 @@ paginate: 1000
 
   <div class="posts-thumbnails">
     
-    {% for post in site.categories.GUIDE %}
+    {% for post in paginator.posts %}
 
       <a href="{{ site.baseurl }}{{ post.url }}">
         <article class="post-thumbnail">
