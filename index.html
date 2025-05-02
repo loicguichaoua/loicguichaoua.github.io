@@ -12,10 +12,8 @@ paginate: 1000
 
   <div class="posts-thumbnails">
     
-    {% for post in paginator.posts %}
+    {% for post in site.categories.GUIDE %}
 
-      {% unless post.tags contains "Article" %}
-    
       <a href="{{ site.baseurl }}{{ post.url }}">
         <article class="post-thumbnail">
 
@@ -29,51 +27,9 @@ paginate: 1000
         </article>
       </a>
     
-      {% endunless %}
-    
     {% endfor %}
     
   </div>
-
-
-<!--
-  <div class="posts">
-    {% for post in paginator.posts %}
-
-      {% unless post.tags contains "Guide" %}
-    
-        <article class="post">
-          <br>
-          <span class="date">
-            {{ post.date | date: "%Y-%m-%d" }}
-          </span>
-          <h1>
-            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-          </h1>
-    
-          <div class="meta">
-            <ul class="tag">
-              {% for tag in post.tags %}
-              <li>
-                <a href="{{ site.url }}{{ site.baseurl }}/tags#{{ tag }}">
-                  {{ tag }}
-                </a>
-              </li>
-              {% endfor %}
-            </ul>
-          </div>
-    
-          <div class="entry" style="color: #999;">
-            {{ post.description }}
-          </div>
-        </article>
-    
-      {% endunless %}
-    
-    {% endfor %}
-    
-  </div>
--->
 
   <div class="pagination">
     {% if paginator.previous_page %}
