@@ -35,6 +35,8 @@ paginate: 10
 
 # Collections
 collections:
+  posts:
+    output: true
   guides:
     output: true
 collections_dir: /my_collections
