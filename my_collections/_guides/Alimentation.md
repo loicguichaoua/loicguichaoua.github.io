@@ -6,7 +6,7 @@ tags:
   - Vegan
 published: true
 description: description
-image: /images/icons/food.png
+image: images/icons/food.png
 ---
 ## L'essentiel
 
