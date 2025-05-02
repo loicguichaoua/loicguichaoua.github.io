@@ -3,21 +3,18 @@ title: Articles
 description: Articles
 layout: default
 ---
-a
+
 {% if site.posts.size == 0 %}
 
-  b
   <h2>No posts found</h2>
 
 {% else %}
-
-  c
 
   <div class="posts-thumbnails">
     
     {% for post in paginator.posts %}
 
-      {% unless post.tags contains "Guide" %}
+      {% unless post.tags contains "Article" %}
     
       <a href="{{ site.baseurl }}{{ post.url }}">
         <article class="post-thumbnail">
