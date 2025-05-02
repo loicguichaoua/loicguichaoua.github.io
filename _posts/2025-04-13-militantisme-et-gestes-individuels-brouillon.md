@@ -4,7 +4,7 @@ layout: post
 date: 2025-04-13
 tags:
   - Article
-published: false
+published: true
 ---
 L'éveil militant commence, pour certains, par le témoignage d'une injustice particulière qui les a profondément ému. Ielles créent ou s'engagent alors dans une association s'adressant spécifiquement à ce type d'injustice (c'est comme ça que s'est dessiné le paysage associatif actuel d'entités dédiés à un nombre incalculable de sous-compartiments de la transition écologique et sociale), qui amène à s'engager pour résoudre cette injustice particulière.
 
