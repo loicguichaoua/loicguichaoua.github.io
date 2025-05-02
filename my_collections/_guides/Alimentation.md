@@ -4,7 +4,6 @@ layout: post
 date: 2025-04-12
 tags:
   - Vegan
-  - Guide
 published: true
 description: description
 image: /images/food.png
