@@ -5,5 +5,5 @@ date: 2025-04-06
 tags:
   - Eau
 published: true
-image: /images/water.png
+image: /images/icons/water.png
 ---

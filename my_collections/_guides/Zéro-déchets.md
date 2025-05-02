@@ -6,7 +6,7 @@ tags:
   - Zéro-déchet
 published: true
 description: description
-image: /images/trash-1.png
+image: /images/icons/trash.png
 ---
 ## L'essentiel
 

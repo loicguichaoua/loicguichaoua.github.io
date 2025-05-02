@@ -6,5 +6,5 @@ tags:
   - Seconde-main
 published: true
 description: ésobriété
-image: /images/clothes.png
+image: /images/icons/clothes.png
 ---

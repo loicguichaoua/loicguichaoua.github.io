@@ -5,5 +5,5 @@ date: 2025-04-07
 tags:
   - Collectif
 published: true
-image: /images/protest.png
+image: /images/icons/protest.png
 ---

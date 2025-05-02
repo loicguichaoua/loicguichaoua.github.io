@@ -6,5 +6,5 @@ tags:
   - Transport
 published: true
 description: description
-image: /images/plane.png
+image: /images/icons/plane.png
 ---
