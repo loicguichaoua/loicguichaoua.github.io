@@ -34,7 +34,7 @@ navigation:
 paginate: 10
 
 # Collections
-collections_dir: mycollections
+collections_dir: my_collections
 
 collections:
   guides:
