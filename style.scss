@@ -83,7 +83,11 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
+  // font-size: 24px;
+  font-size: clamp(1rem, 1.25vw, 1.5rem);
+  // @include mobile {
+  //   font-size: 20px;
+  // }
 }
 
 h3 {
@@ -367,6 +371,7 @@ img {
   @include mobile {
     text-align: center;
     justify-content: center;
+    flex-direction: column;
   }
 }
 
@@ -452,6 +457,7 @@ nav {
 
 // FONT
 
+// https://fonts.google.com/specimen/Rubik+Glitch?preview.text=PURET%C3%89%0AMILITANTE&preview.size=71
 .rubik-glitch-regular {
   font-family: "Rubik Glitch", system-ui;
   font-weight: 400;
@@ -471,6 +477,9 @@ nav {
   row-gap: 20px;
   column-gap: 20px;
   text-align: center;
+  @include mobile {
+    
+  }
 }
 
 .post-thumbnail {
