@@ -83,11 +83,7 @@ h1 {
 }
 
 h2 {
-  // font-size: 24px;
-  font-size: clamp(1rem, 1.25vw, 1.5rem);
-  // @include mobile {
-  //   font-size: 20px;
-  // }
+  font-size: 24px;
 }
 
 h3 {
@@ -477,9 +473,6 @@ nav {
   row-gap: 20px;
   column-gap: 20px;
   text-align: center;
-  @include mobile {
-    
-  }
 }
 
 .post-thumbnail {
@@ -495,11 +488,16 @@ nav {
   align-self: center; /* = .container's align-items */
   min-height: 190px;
   width: 200px;
+  @include mobile {
+    font-size: clamp(0.9rem, 1.2vw, 1.5rem);
+    height: 125px;
+    width: 125px;
+  }
   border-radius: 20px;
   /* format */
   background-image: url({{ site.avatar }});
   background-position: center;
-  background-size: 200px;
+  background-size: 100%;
 }
 
 .thumbnail-transparent {
@@ -511,6 +509,10 @@ nav {
   /* format */
   width:190px;
   height:180px;
+  @include mobile {
+    height: 115px;
+    width: 115px;
+  }
   border-radius:15px;
   background-color:rgba(255,255,255,0.95);
 }
