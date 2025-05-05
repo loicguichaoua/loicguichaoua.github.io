@@ -513,7 +513,7 @@ nav {
   width:190px;
   height:180px;
   @include mobile {
-    font-size: clamp(1rem, min("-0.875rem + 8.333vw", 30px), 24px); // https://css-tricks.com/linearly-scale-font-size-with-css-clamp-based-on-the-viewport/
+    font-size: clamp(1rem, "min(-0.875rem + 8.333vw)", 30px), 24px); // https://css-tricks.com/linearly-scale-font-size-with-css-clamp-based-on-the-viewport/
     height: 115px;
     width: 115px;
   }
