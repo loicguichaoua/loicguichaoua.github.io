@@ -472,6 +472,10 @@ nav {
   align-content: stretch;
   row-gap: 20px;
   column-gap: 20px;
+  @include mobile {
+    row-gap: 10px;
+    column-gap: 10px;
+  }
   text-align: center;
 }
 
@@ -486,10 +490,9 @@ nav {
   flex-shrink: 1;
   flex-basis: auto;
   align-self: center; /* = .container's align-items */
-  min-height: 190px;
+  height: 190px;
   width: 200px;
   @include mobile {
-    font-size: clamp(0.9rem, 1.2vw, 1.5rem);
     height: 125px;
     width: 125px;
   }
@@ -510,6 +513,7 @@ nav {
   width:190px;
   height:180px;
   @include mobile {
+    font-size: clamp(1rem, -0.875rem + 8.333vw, 24px);
     height: 115px;
     width: 115px;
   }
