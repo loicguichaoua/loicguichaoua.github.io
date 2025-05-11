@@ -4,7 +4,7 @@ layout: default
 ---
 ## {{ page.title }}
 
-\# Cohérence Citoyenne # Moral Consistency
+\# Cohérence Citoyenne # Moral Consistency # Civic Integrity
 
 > L'avantage quand on est 8 milliards, c'est que la plus petite chose que l'on fait aura de l'importance. Le désavantage c'est que cela peut être en bien comme en mal.
 
