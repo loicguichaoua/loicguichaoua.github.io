@@ -12,7 +12,9 @@ layout: default
 
   <div class="posts-thumbnails">
     
-    {% for guide in site.guides %}
+    <!-- sort guides -->
+    {% assign guides = site.guides | nested_sort:"contents.date" | reverse %}
+    {% for guide in guides %}
 
       <a href="{{ site.baseurl }}{{ guide.url }}">
         <article class="post-thumbnail">
