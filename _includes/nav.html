@@ -2,6 +2,7 @@
   
     <header class="masthead clearfix">
 
+      <!-- 
       {% if site.avatar %}
       <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
       {% endif %}
@@ -10,8 +11,16 @@
         <h1 class="site-title"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
         <p class="site-description">{{ site.description }}</p>
       </div>
+      -->
+      
+      <a href="{{ site.baseurl }}/">
+        <p>
+          <span style="font-family:New Rocker;">COHÉRENCE</span>
+          <span style="font-family:Climate Crisis;">CITOYENNE</span>
+        </p>
+      </a>
 
-      <nav>
+      <nav style="font-family: Bebas Neue;">
         {% for nav in site.navigation %}
         {% if nav.url contains 'http://' or nav.url contains 'https://' %}
         <a href="{{ nav.url }}">{{ nav.name }}</a>
@@ -20,6 +29,7 @@
         {% endif %}
         {% endfor %}
       </nav>
+
     </header>
 
 </div>
