@@ -1,0 +1,52 @@
+---
+title: Guides
+layout: default
+---
+
+{% if site.guides.size == 0 %}
+
+  <h2>Pas de guides trouvés.</h2>
+
+{% else %}
+
+  <div class="posts-thumbnails">
+    
+    <!-- sort guides -->
+    {% assign guides = site.guides | nested_sort:"contents.date" | reverse %}
+    {% for guide in guides %}
+
+      <a href="{{ site.baseurl }}{{ guide.url }}">
+        <article class="post-thumbnail">
+
+          <div class="thumbnail-transparent">
+            <img src="{{ guide.image }}" width="50";>
+            <h2>
+              {{ guide.title }}
+            </h2>
+          </div>
+    
+        </article>
+      </a>
+    
+    {% endfor %}
+    
+  </div>
+
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <span class="prev">
+        <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="prev">
+          &#xE000; Previous
+        </a>
+      </span>
+    {% endif %}
+    {% if paginator.next_page %}
+      <span class="next">
+        <a href="{{ site.baseurl}}{{ paginator.next_page_path }}" class="next">
+          Next &#xE001;
+        </a>
+      </span>
+    {% endif %}
+  </div>
+
+{% endif %}

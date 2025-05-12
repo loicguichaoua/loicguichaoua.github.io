@@ -22,7 +22,7 @@ favicon: /images/favicon/favicon.png
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
   - name: Guides
-    url: /
+    url: /guides
   - name: Articles
     url: /articles
   - name: À propos
