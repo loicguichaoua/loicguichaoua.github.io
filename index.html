@@ -11,6 +11,10 @@ layout: default
 
   {% for post in site.posts limit:1 %}
 
+    <div style="display:flex;flex-direction:row;justify-content:space-between;">
+      <p style="font-family:Bebas Neue;text-align:right;margin:0px;">France, le {{ post.date | date: "%d %B %Y" }}</p><p style="font-family:Bebas Neue;text-align:right;margin:0px;">6 Francs</p>
+    </div>
+
     <p style="font-family:Bebas Neue;font-size:8vw;line-height:100px;text-align:justify;color:black;">{{ post.title }}</p>
     <div style="display:flex;flex-direction:row;">
         <img src="{{ post.image }}" style="width:75%;margin-right:3%;">
