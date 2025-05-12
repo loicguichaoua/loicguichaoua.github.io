@@ -11,8 +11,10 @@ layout: default
 
   {% for post in site.posts limit:1 %}
 
-      <p style="font-family:Bebas Neue;font-size:120px;line-height:100px;text-align:justify;color:black;">{{ post.title }}</p>
-      <img src="{{ post.image }}" style="width:75%;">
+    <p style="font-family:Bebas Neue;font-size:8vw;line-height:100px;text-align:justify;color:black;">{{ post.title }}</p>
+    <div style="display:flex;flex-direction:row;">
+        <img src="{{ post.image }}" style="width:75%;margin-right:3%;">
+    <div style="display:flex;flex-direction:column;">
       <span class="date" style="margin-bottom:5px;">
         {{ post.date | date: "%Y-%m-%d" }}
       </span>
@@ -20,6 +22,8 @@ layout: default
         {{ post.description }}
       </div>
       <a href="{{ site.baseurl }}{{ post.url }}">Lire plus...</a>
+      </div>
+    </div>
 
   {% endfor %}
 
