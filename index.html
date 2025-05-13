@@ -16,9 +16,9 @@ layout: default
       <p style="font-family:Bebas Neue;text-align:right;margin:0px;"></p>
     </div>
 
-    <p style="font-family:Bebas Neue;font-size:calc(55px+(140-55) * ((100vw-10vw) / (2560 - 300)));line-height:100px;text-align:justify;color:black;">{{ post.title }}</p>
+    <p style="font-family:Bebas Neue;font-size:calc(55px + (140 - 55) * ((100vw - 300px) / (2560 - 300)));line-height:100px;text-align:justify;color:black;">{{ post.title }}</p>
     <div style="display:flex;flex-direction:row;">
-        <img src="{{ post.image }}" style="width:75%;margin-right:3%;">
+        <img src="{{ post.image }}" style="object-fit:contain;max-width:70%;margin-right:3%;">
     <div style="display:flex;flex-direction:column;">
       <span class="date" style="margin-bottom:5px;">
         {{ post.date | date: "%Y-%m-%d" }}
