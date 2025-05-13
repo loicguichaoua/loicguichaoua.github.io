@@ -20,9 +20,6 @@ layout: default
     <div style="display:flex;flex-direction:row;">
         <img src="{{ post.image }}" style="object-fit:contain;max-width:70%;margin-right:3%;">
     <div style="display:flex;flex-direction:column;">
-      <span class="date" style="margin-bottom:5px;">
-        {{ post.date | date: "%Y-%m-%d" }}
-      </span>
       <div style="text-align:justify;color: #999;">
         {{ post.description }}
       </div>
