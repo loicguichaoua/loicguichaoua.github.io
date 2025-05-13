@@ -25,7 +25,7 @@
         </p>
       </a>
 
-      <nav style="font-family: Bebas Neue;font-size:26px;">
+      <nav style="font-family: Bebas Neue;font-size:calc(20px + (26 - 20) * ((100vw - 300px) / (2560 - 300)));">
         {% for nav in site.navigation %}
         {% if nav.url contains 'http://' or nav.url contains 'https://' %}
         <a href="{{ nav.url }}">{{ nav.name }}</a>
