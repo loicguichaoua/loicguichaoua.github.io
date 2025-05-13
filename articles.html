@@ -13,32 +13,46 @@ layout: default
   <div class="posts">
     {% for post in site.posts %}
 
-      <article class="post">
-        <br>
-        <span class="date" style="margin-bottom:5px;">
-          {{ post.date | date: "%Y-%m-%d" }}
-        </span>
-        <img src="/images/posts/friend-or-food.jpg" style="width:300px;margin-bottom:5px;">
-        <h2>
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        </h2>
-  
-        <div class="meta">
-          <ul class="tag">
-            {% for tag in post.tags %}
-            <li>
-              <a href="{{ site.url }}{{ site.baseurl }}/tags#{{ tag }}">
-                {{ tag }}
-              </a>
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
-  
-        <div class="entry" style="color: #999;">
-          {{ post.description }}
-        </div>
-      </article>
+      <a href="{{ site.baseurl }}{{ post.url }}">  
+        <article class="post">
+          
+          <br>
+
+          <div style="display:flex;flex-direction:row;">
+
+            <img src="/images/posts/friend-or-food.jpg" style="object-fit:contain;max-width:70%;margin-right:3%;">
+
+            <div style="display:flex;flex-direction:column;margin-left:15px;">
+
+              <h2>
+                {{ post.title }}
+              </h2>
+        
+              <div class="meta">
+                <ul class="tag">
+                  {% for tag in post.tags %}
+                  <li>
+                    <a href="{{ site.url }}{{ site.baseurl }}/tags#{{ tag }}">
+                      {{ tag }}
+                    </a>
+                  </li>
+                  {% endfor %}
+                </ul>
+              </div>
+
+              <span class="date" style="margin-bottom:5px;">
+                {{ post.date | date: "%Y-%m-%d" }}
+              </span>
+        
+              <div class="entry" style="color: #999;">
+                {{ post.description }}
+              </div>
+
+            </div>
+
+          </div>
+        </article>
+      </a>
 
     {% endfor %}
   </div>
