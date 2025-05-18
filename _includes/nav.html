@@ -14,7 +14,7 @@
       -->
 
       <a href="{{ site.baseurl }}/">
-        <p>
+        <p class="website-title">
           <span style="font-family:New Rocker;font-size:calc(40px + (45 - 40) * ((100vw - 300px) / (2560 - 300)));line-height:30px;color:black;">
             COHÉRENCE
           </span>
@@ -25,7 +25,7 @@
         </p>
       </a>
 
-      <nav style="font-family: Bebas Neue;font-size:calc(20px + (26 - 20) * ((100vw - 300px) / (2560 - 300)));">
+      <nav class="website-nav">
         {% for nav in site.navigation %}
         {% if nav.url contains 'http://' or nav.url contains 'https://' %}
         <a href="{{ nav.url }}">{{ nav.name }}</a>

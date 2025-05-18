@@ -461,6 +461,24 @@ nav {
 }
 
 
+// Title / logo
+
+.website-title {
+  @include mobile {
+    margin-bottom:0px;
+  }
+}
+
+// Nav
+
+.website-nav {
+  font-family: Bebas Neue;
+  font-size:calc(20px + (26 - 20) * ((100vw - 300px) / (2560 - 300)));
+  @include mobile {
+    margin-top: 0px;
+  }
+}
+
 // Post - homepage
 
 .post-homepage {
