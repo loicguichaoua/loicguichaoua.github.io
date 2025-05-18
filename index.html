@@ -18,7 +18,7 @@ layout: default
     <!-- <p class="fittext" style="font-family:Bebas Neue;font-size:calc(55px + (140 - 55) * ((100vw - 300px) / (2560 - 300)));line-height:100px;text-align:justify;color:black;">{{ post.title }}</p> -->
     <p class="fittext" style="font-family:Bebas Neue;color:black;">
       {% for row in post.title_array %}
-        <span class="fittext" style="font-family:Bebas Neue;width:100%;color:black;">{{ row }}</span>
+        <span class="fittext" style="font-family:Bebas Neue;min-width:100%;color:black;">{{ row }}</span>
       {% endfor %}
     </p>
     <div style="display:flex;flex-direction:row;">
