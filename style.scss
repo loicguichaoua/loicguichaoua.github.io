@@ -461,6 +461,15 @@ nav {
 }
 
 
+// Post - homepage
+
+.post-homepage {
+  flex-direction: row;
+  @include mobile {
+    flex-direction: column;
+  }
+}
+
 // Posts - Thumbnails
 
 .posts-thumbnails {

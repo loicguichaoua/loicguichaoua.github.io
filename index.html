@@ -21,13 +21,13 @@ layout: default
         <span class="fitty" style="display:inline-block;white-space:nowrap;">{{ row }}</span>
       {% endfor %}
     </p>
-    <div style="display:flex;flex-direction:row;">
-        <img src="{{ post.image }}" style="object-fit:contain;max-width:70%;margin-right:3%;">
-    <div style="display:flex;flex-direction:column;">
-      <div style="text-align:justify;color: #999;">
-        {{ post.description }}
-      </div>
-      <a href="{{ site.baseurl }}{{ post.url }}">Lire plus...</a>
+    <div class="post-homepage" style="display:flex;flex-direction:row;">
+      <img src="{{ post.image }}" style="object-fit:contain;max-width:70%;margin-right:3%;">
+      <div style="display:flex;flex-direction:column;">
+        <div style="text-align:justify;color: #999;">
+          {{ post.description }}
+        </div>
+        <a href="{{ site.baseurl }}{{ post.url }}">Lire plus...</a>
       </div>
     </div>
 
