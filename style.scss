@@ -464,7 +464,8 @@ nav {
 // Post - homepage
 
 .post-homepage {
-  flex-direction: row;
+  display:flex;
+  flex-direction:row;
   @include mobile {
     flex-direction: column;
   }
