@@ -18,7 +18,7 @@ layout: default
     <!-- <p style="font-family:Bebas Neue;font-size:calc(55px + (140 - 55) * ((100vw - 300px) / (2560 - 300)));line-height:100px;text-align:justify;color:black;">{{ post.title }}</p> -->
     <p style="display:block;width:100%;font-family:Bebas Neue;color:black;">
       {% for row in post.title_array %}
-        <span style="display:block;font-family:Bebas Neue;color:black;">{{ row }}</span>
+        <span class="fitty" style="display:inline-block;white-space:nowrap;">{{ row }}</span>
       {% endfor %}
     </p>
     <div style="display:flex;flex-direction:row;">
@@ -34,3 +34,11 @@ layout: default
   {% endfor %}
 
 {% endif %}
+
+<script src="scripts/fitty.min.js"></script>
+<script>
+    fitty('.fitty', {
+      minSize: 12,
+      maxSize: 300,
+    });
+</script>
