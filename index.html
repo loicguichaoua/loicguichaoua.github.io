@@ -18,7 +18,7 @@ layout: default
     <!-- <p style="font-family:Bebas Neue;font-size:calc(55px + (140 - 55) * ((100vw - 300px) / (2560 - 300)));line-height:100px;text-align:justify;color:black;">{{ post.title }}</p> -->
     <p style="display:block;width:100%;font-family:Bebas Neue;color:black;">
       {% for row in post.title_array %}
-        <span class="fittext" style="display:block;font-family:Bebas Neue;color:black;">{{ row }}</span>
+        <span style="display:block;font-family:Bebas Neue;color:black;">{{ row }}</span>
       {% endfor %}
     </p>
     <div style="display:flex;flex-direction:row;">
@@ -34,6 +34,3 @@ layout: default
   {% endfor %}
 
 {% endif %}
-
-<script src="fittext.js"></script>
-<script type="text/javascript">fitText(document.getElementsByClassName('fittext'), 1.8)</script>
