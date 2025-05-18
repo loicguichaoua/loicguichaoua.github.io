@@ -13,10 +13,12 @@ layout: default
 
     <div style="display:flex;flex-direction:row;justify-content:space-between;">
       <p style="font-family:Bebas Neue;text-align:right;margin:0px;">France, le {{ post.date | date: "%d %B %Y" }}</p>
-      <p style="font-family:Bebas Neue;text-align:right;margin:0px;"></p>
     </div>
 
-    <p style="font-family:Bebas Neue;font-size:calc(55px + (140 - 55) * ((100vw - 300px) / (2560 - 300)));line-height:100px;text-align:justify;color:black;">{{ post.title }}</p>
+    <!-- <p class="fittext" style="font-family:Bebas Neue;font-size:calc(55px + (140 - 55) * ((100vw - 300px) / (2560 - 300)));line-height:100px;text-align:justify;color:black;">{{ post.title }}</p> -->
+    {% for row in post.title_array %}
+      <p class="fittext" style="font-family:Bebas Neue;color:black;">{{ post.title }}</p>
+    {% endfor %}
     <div style="display:flex;flex-direction:row;">
         <img src="{{ post.image }}" style="object-fit:contain;max-width:70%;margin-right:3%;">
     <div style="display:flex;flex-direction:column;">
@@ -30,3 +32,6 @@ layout: default
   {% endfor %}
 
 {% endif %}
+
+<script src="fittext.js"></script>
+<script type="text/javascript">fitText(document.getElementsByClassName('fittext'), 1.2)</script>
