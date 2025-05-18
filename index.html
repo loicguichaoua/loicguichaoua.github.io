@@ -38,6 +38,8 @@ layout: default
 <script src="scripts/fitty.min.js"></script>
 <script>
 
+$(document).ready(function () { // ensures code runs after JQuery has been initialized
+  
   // line-height
   $$('.fitty').each(function(element) {
     element.observe(eventName, function(e) {
@@ -50,5 +52,7 @@ layout: default
     minSize: 12,
     maxSize: 400,
   });  
+
+});
 
 </script>
