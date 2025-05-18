@@ -46,11 +46,9 @@ $(document).ready(function () { // ensures code runs after JQuery has been initi
     var target = this;
     var observer = new MutationObserver(function(mutations) {
       mutations.forEach(function(mutation) {
-        console.log("Change");
-        console.log(mutation.target);
-        console.log(mutation);
-        // mutation.target.style('line-height', mutation.target.style('font-size'));
-        mutation.target.style.lineHeight = mutation.target.style.fontSize;
+        // console.log(mutation.target);
+        // console.log(mutation);
+        mutation.target.style.lineHeight = parseFloat(mutation.target.style.fontSize) * 0.8 ;
       });
     });
     observer.observe(target, config);
