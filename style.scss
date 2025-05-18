@@ -464,10 +464,19 @@ nav {
 // Post - homepage
 
 .post-homepage {
-  display:flex;
+  display:flex !important;
   flex-direction:row;
   @include mobile {
     flex-direction: column;
+  }
+}
+
+.post-homepage img {
+  object-fit:contain;
+  max-width:70%;
+  margin-right:3%;
+  @include mobile {
+    max-width: 100%;
   }
 }
 
