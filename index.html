@@ -41,7 +41,7 @@ layout: default
 $(document).ready(function () { // ensures code runs after JQuery has been initialized
   
   // line-height
-  $$('.fitty').each(function(element) {
+  $('.fitty').each(function(element) {
     element.observe(eventName, function(e) {
       element.css('line-height', element.css('font-size'));
     });
