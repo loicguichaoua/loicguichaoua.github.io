@@ -37,8 +37,18 @@ layout: default
 
 <script src="scripts/fitty.min.js"></script>
 <script>
+    // font-size
     fitty('.fitty', {
       minSize: 12,
-      maxSize: 300,
+      maxSize: 400,
     });
+    // line-height
+    var observer = new MutationObserver(function(mutations) {
+        mutations.forEach(function(mutation) {
+            console.log('style changed!');
+            console.log(mutation);
+        });
+    });
+    var target = document.getElementsByClassName('fitty');
+    observer.observe(target, { attributes : true, attributeFilter : ['font-size'] });
 </script>
