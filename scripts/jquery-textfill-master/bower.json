@@ -1,0 +1,27 @@
+{
+	"name"        : "jquery-textfill",
+	"description" : "Chooses the optimal font size for text to fit into a container.",
+	"version"     : "0.6.2",
+	"keywords"    : [
+		"jquery", "text", "resize", "container", "font"
+	],
+
+	"main": "source/jquery.textfill.js",
+
+	"ignore": [
+	],
+
+	"homepage" : "https://github.com/jquery-textfill/jquery-textfill",
+	"authors": [
+		{ "name": "Russ Painter", "email": "russp@geekymonkey.com", "homepage": "http://geekymonkey.com" }
+	],
+
+	"license": "MIT",
+	"dependencies": {
+		"jquery": ">=1.6"
+	},
+	"devDependencies": {
+		"qunit": ">=1.11"
+	}
+}
+
