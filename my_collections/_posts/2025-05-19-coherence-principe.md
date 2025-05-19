@@ -7,7 +7,7 @@ description: lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem i
 image: /images/posts/mlk.jpeg
 tags:
   - Vegan
-published: true
+published: false
 ---
 
 Cohérence de principe vs de stratégie
