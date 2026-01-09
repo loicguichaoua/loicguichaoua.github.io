@@ -5,7 +5,7 @@ date: 2025-04-12
 tags:
   - Vegan
 published: true
-image: images/icons/food.png
+image: /images/icons/food.png
 ---
 ## L'essentiel
 
