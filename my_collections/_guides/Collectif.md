@@ -23,4 +23,4 @@ image: /images/icons/protest.png
 
 *   Pas de "pureté militante" : la Cohérence Citoyenne est une aide pour que chacun déploie pleinement son potentiel de cohérence. La plupart du temps la société limite ce potentiel et nous oblige à adopter des modes de vie destructeurs : faire preuve d'indulgence envers soi-même et les autres. En revanche être dans une position d'opulence et de pouvoir d'action implique de faire un effort nettement plus fort de cohérence (pouvoir = responsabilité).
 
-*   L'entrée en cohérence citoyenne est souhaitée par les militants mais la société les en empêche souvent. Ce site veut faciliter l'entrée en cohérence, pour débloquer le potentiel militant individuel et ce faisant empouvoirer le collectif, pas l'inverse.
+*   L'entrée en cohérence citoyenne est souhaitée par les militants mais la société les en empêche souvent. Ce site veut faciliter l'entrée en cohérence, pour débloquer le potentiel militant individuel et ce faisant empouvoirer le collectif.
