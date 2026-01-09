@@ -37,4 +37,4 @@ image: /images/icons/food.png
 
 ## Documentaires pour s'informer
 
-*   [article détaillé (en anglais)](https://www.loicguichaoua.com/80-000-000-000/) listant de nombreux documentaires, fictions et livres sur le sujet
+*   [article détaillé (en anglais)](https://coherencecitoyenne.fr/80-000-000-000/) listant de nombreux documentaires, fictions et livres sur le sujet
