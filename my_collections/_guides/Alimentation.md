@@ -1,5 +1,5 @@
 ---
-title: Véganisme
+title: Végétalisme
 layout: post
 date: 2025-04-12
 tags:
@@ -37,4 +37,4 @@ image: /images/icons/food.png
 
 ## Documentaires pour s'informer
 
-*   [article détaillé (en anglais)](https://www.loicguichaoua.com/70-000-000-000/) listant de nombreux documentaires, fictions et livres sur le sujet
+*   [article détaillé (en anglais)](https://www.loicguichaoua.com/80-000-000-000/) listant de nombreux documentaires, fictions et livres sur le sujet
