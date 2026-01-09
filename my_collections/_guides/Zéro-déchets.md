@@ -17,7 +17,12 @@ image: /images/icons/trash.png
 *   Un Français produit en moyenne [**600kg de déchets par an**](https://infos.ademe.fr/magazine-mai-2021/faits-et-chiffres/zoom-sur-le-contenu-de-nos-poubelles/).
     
 *   Les déchets organiques représentent [**40 à 60%**](https://agirpourlatransition.ademe.fr/particuliers/maison/dechets/5-regles-reussir-compost) des ordures ménagères.
-    
+
+
+## Définition
+
+> “Le zéro déchet (de l'anglais zero waste) est un mouvement de protection de l'environnement qui vise à réduire le gaspillage de ressources, la quantité de déchets émis et leur toxicité. Cela passe par l'usage de produits réutilisables (gourdes, etc.), la préférence pour le réemploi et la réparation, ou les achats alimentaires sans emballage jetable (vrac, consigne)."
+
 
 ## Au quotidien
 
