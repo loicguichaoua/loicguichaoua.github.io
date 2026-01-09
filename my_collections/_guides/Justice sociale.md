@@ -1,7 +1,7 @@
 ---
 title: Justice sociale
 layout: post
-date: 2026-01-09
+date: 2025-04-04
 tags:
   - Justice sociale
 published: true
